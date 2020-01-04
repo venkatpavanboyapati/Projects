@@ -1,4 +1,4 @@
-
+Computer program that plays TicTacToe game, Instead of using traditional approach, This program is developed using Reinforcement Learning in AI. Naturally trains itself like humans do and never losses a Game.
 
 --
 Initialization:
