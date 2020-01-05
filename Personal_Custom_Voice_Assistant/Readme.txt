@@ -1,4 +1,4 @@
-This is custom personal voice assistant for different tasks using speach recognition. like
+This is custom personal voice assistant for different tasks using speach recognition. I named it "Wendy", below are few
         You can use these commands and It will help you out:
         1. Open reddit subreddit : Opens the subreddit in default browser.
         2. Open xyz.com : replace xyz with any website name
