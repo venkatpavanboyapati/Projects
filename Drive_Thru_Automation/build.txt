@@ -1,0 +1,3037 @@
+{
+  "languageModel": {
+    "types": [
+      {
+        "name": "dressingslot",
+        "values": [
+          {
+            "id": "128",
+            "name": {
+              "value": "Balsamic Vinaigrette",
+              "synonyms": [
+                "Balsamic"
+              ]
+            }
+          },
+          {
+            "id": "127",
+            "name": {
+              "value": "Pomegranate Vinaigrette",
+              "synonyms": [
+                "Pomegranate"
+              ]
+            }
+          },
+          {
+            "id": "126",
+            "name": {
+              "value": "Avocado Ranch",
+              "synonyms": [
+                "Avocado"
+              ]
+            }
+          },
+          {
+            "id": "125",
+            "name": {
+              "value": "Lemon Garlic Caesar",
+              "synonyms": [
+                "Lemon Garlic"
+              ]
+            }
+          },
+          {
+            "id": "124",
+            "name": {
+              "value": "Classic Ranch",
+              "synonyms": [
+                "Classic"
+              ]
+            }
+          },
+          {
+            "id": "123",
+            "name": {
+              "value": "Italian Vinaigrette",
+              "synonyms": [
+                "Italian"
+              ]
+            }
+          },
+          {
+            "id": "122",
+            "name": {
+              "value": "Light Ranch",
+              "synonyms": [
+                "Light"
+              ]
+            }
+          },
+          {
+            "id": "129",
+            "name": {
+              "value": "No",
+              "synonyms": [
+                "Nope",
+                "na",
+                "no",
+                "no that is fine",
+                "thats good"
+              ]
+            }
+          },
+          {
+            "id": "130",
+            "name": {
+              "value": "Yes",
+              "synonyms": [
+                "yes",
+                "yep",
+                "yaah"
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "name": "drinksizeslot",
+        "values": [
+          {
+            "id": null,
+            "name": {
+              "value": "Small",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Medium",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Large",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "no",
+              "synonyms": [
+                "No"
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "name": "drinkslot",
+        "values": [
+          {
+            "id": "318",
+            "name": {
+              "value": "Diet Coke",
+              "synonyms": []
+            }
+          },
+          {
+            "id": "317",
+            "name": {
+              "value": "Sprite",
+              "synonyms": []
+            }
+          },
+          {
+            "id": "316",
+            "name": {
+              "value": "Fanta Orange",
+              "synonyms": [
+                "fanta"
+              ]
+            }
+          },
+          {
+            "id": "315",
+            "name": {
+              "value": "Root Beer",
+              "synonyms": []
+            }
+          },
+          {
+            "id": "314",
+            "name": {
+              "value": "Coca Cola",
+              "synonyms": [
+                "coke cola"
+              ]
+            }
+          },
+          {
+            "id": "313",
+            "name": {
+              "value": "Bottled Water",
+              "synonyms": []
+            }
+          },
+          {
+            "id": "312",
+            "name": {
+              "value": "Doctor Pepper",
+              "synonyms": [
+                "Dr pepper"
+              ]
+            }
+          },
+          {
+            "id": "311",
+            "name": {
+              "value": "Coke Zero",
+              "synonyms": []
+            }
+          },
+          {
+            "id": "308",
+            "name": {
+              "value": "Mango Peach Fruit tea",
+              "synonyms": [
+                "Mango Peach",
+                "Mango Peach FruiTea Chiller",
+                "Mango Peach FruitTea Chiller",
+                "Mango Peach Chiller"
+              ]
+            }
+          },
+          {
+            "id": "307",
+            "name": {
+              "value": "Strawberry Passionfruit Fruit tea",
+              "synonyms": [
+                "Strawberry Passionfruit FruitTea Chiller",
+                "Strawberry Passionfruit FruiTea Chiller",
+                "Strawberry Passionfruit"
+              ]
+            }
+          },
+          {
+            "id": "306",
+            "name": {
+              "value": "Strawberry Lemonade",
+              "synonyms": [
+                "Strawberry"
+              ]
+            }
+          },
+          {
+            "id": "305",
+            "name": {
+              "value": "Natural Lemonade",
+              "synonyms": [
+                "All Natural Lemonade"
+              ]
+            }
+          },
+          {
+            "id": "304",
+            "name": {
+              "value": "Coffee",
+              "synonyms": []
+            }
+          },
+          {
+            "id": "303",
+            "name": {
+              "value": "Iced coffee",
+              "synonyms": []
+            }
+          },
+          {
+            "id": "302",
+            "name": {
+              "value": "Ice Tea",
+              "synonyms": []
+            }
+          },
+          {
+            "id": "399",
+            "name": {
+              "value": "Yes",
+              "synonyms": [
+                "ya",
+                "Yaa",
+                "Yep"
+              ]
+            }
+          },
+          {
+            "id": "398",
+            "name": {
+              "value": "No",
+              "synonyms": [
+                "na",
+                "naa",
+                "no",
+                "nope",
+                "no drink",
+                "No Just sandwich",
+                "no just burger",
+                "no just a burger",
+                "No Just a sandwich"
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "name": "friesslot",
+        "values": [
+          {
+            "id": null,
+            "name": {
+              "value": "Baconator Fries",
+              "synonyms": [
+                "baconator"
+              ]
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "French Fries",
+              "synonyms": [
+                "fries"
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "name": "itemslot",
+        "values": [
+          {
+            "id": "212",
+            "name": {
+              "value": "Daves Triple",
+              "synonyms": [
+                "Dave's Triple",
+                "Dave's triple burger",
+                "triple"
+              ]
+            }
+          },
+          {
+            "id": "211",
+            "name": {
+              "value": "Grilled Chicken",
+              "synonyms": [
+                "Grilled Chicken sandwich",
+                "grilled"
+              ]
+            }
+          },
+          {
+            "id": "210",
+            "name": {
+              "value": "Spicy Chicken",
+              "synonyms": [
+                "Spicy Chicken Sandwich",
+                "spicy",
+                "Spicy Sandwich"
+              ]
+            }
+          },
+          {
+            "id": "209",
+            "name": {
+              "value": "Home Style Chicken",
+              "synonyms": [
+                "Home Style Chicken Sandwich",
+                "home style"
+              ]
+            }
+          },
+          {
+            "id": "208",
+            "name": {
+              "value": "Asiago Ranch Chicken Club",
+              "synonyms": [
+                "Asiago Ranch Chicken Club sandwich",
+                "Asiago ranch",
+                "Asiago Ranch Chicken sandwich"
+              ]
+            }
+          },
+          {
+            "id": "207",
+            "name": {
+              "value": "Daves Single",
+              "synonyms": [
+                "Dave's Single",
+                "Dave's single burger",
+                "single"
+              ]
+            }
+          },
+          {
+            "id": "206",
+            "name": {
+              "value": "Son of Baconator",
+              "synonyms": []
+            }
+          },
+          {
+            "id": "205",
+            "name": {
+              "value": "Daves Double",
+              "synonyms": [
+                "Dave's Double",
+                "Dave's double burger",
+                "Double"
+              ]
+            }
+          },
+          {
+            "id": "204",
+            "name": {
+              "value": "Jr. Bacon Cheese Burger",
+              "synonyms": [
+                "Jr. Bacon Cheese"
+              ]
+            }
+          },
+          {
+            "id": "203",
+            "name": {
+              "value": "Jr. Cheeseburger Deluxe",
+              "synonyms": [
+                "Jr. Cheeseburger Deluxe Burger"
+              ]
+            }
+          },
+          {
+            "id": "202",
+            "name": {
+              "value": "Jr. Cheeseburger",
+              "synonyms": [
+                "Jr. Cheeseburger Burger"
+              ]
+            }
+          },
+          {
+            "id": "201",
+            "name": {
+              "value": "Baconator",
+              "synonyms": []
+            }
+          },
+          {
+            "id": "301",
+            "name": {
+              "value": "10 piece chicken nuggets",
+              "synonyms": [
+                "10 pc nuggets",
+                "10 pc chicken nuggets"
+              ]
+            }
+          },
+          {
+            "id": "105",
+            "name": {
+              "value": "Spicy Chicken Caesar",
+              "synonyms": [
+                "Spicy Chicken Caesar Salad",
+                "Spicy Caesar Salad",
+                "Spicy Caesar"
+              ]
+            }
+          },
+          {
+            "id": "104",
+            "name": {
+              "value": "Barbecue Ranch",
+              "synonyms": [
+                "Barbecue Ranch Salad",
+                "Barbecue Ranch Chicken Salad"
+              ]
+            }
+          },
+          {
+            "id": "103",
+            "name": {
+              "value": "Power Mediterranean",
+              "synonyms": [
+                "Power Mediterranean Salad",
+                "Power Mediterranean Chicken Salad"
+              ]
+            }
+          },
+          {
+            "id": "102",
+            "name": {
+              "value": "Apple Pecan",
+              "synonyms": [
+                "Apple Pecan Salad",
+                "Apple Pecan chicken salad"
+              ]
+            }
+          },
+          {
+            "id": "101",
+            "name": {
+              "value": "Taco",
+              "synonyms": [
+                "New Taco Salad",
+                "Taco salad"
+              ]
+            }
+          },
+          {
+            "id": "9999",
+            "name": {
+              "value": "skip",
+              "synonyms": []
+            }
+          },
+          {
+            "id": "7777",
+            "name": {
+              "value": "bno",
+              "synonyms": []
+            }
+          }
+        ]
+      },
+      {
+        "name": "mcdslot",
+        "values": [
+          {
+            "id": null,
+            "name": {
+              "value": "Big Mac",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "mcdonalds",
+              "synonyms": [
+                "mac donalds",
+                "mc donalds"
+              ]
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "burger king",
+              "synonyms": []
+            }
+          }
+        ]
+      },
+      {
+        "name": "mnunumberslot",
+        "values": [
+          {
+            "id": "401",
+            "name": {
+              "value": "1",
+              "synonyms": []
+            }
+          },
+          {
+            "id": "402",
+            "name": {
+              "value": "2",
+              "synonyms": []
+            }
+          },
+          {
+            "id": "403",
+            "name": {
+              "value": "3",
+              "synonyms": []
+            }
+          },
+          {
+            "id": "404",
+            "name": {
+              "value": "4",
+              "synonyms": []
+            }
+          },
+          {
+            "id": "405",
+            "name": {
+              "value": "5",
+              "synonyms": []
+            }
+          },
+          {
+            "id": "406",
+            "name": {
+              "value": "6",
+              "synonyms": []
+            }
+          },
+          {
+            "id": "407",
+            "name": {
+              "value": "7",
+              "synonyms": []
+            }
+          },
+          {
+            "id": "408",
+            "name": {
+              "value": "8",
+              "synonyms": []
+            }
+          },
+          {
+            "id": "409",
+            "name": {
+              "value": "9",
+              "synonyms": []
+            }
+          },
+          {
+            "id": "410",
+            "name": {
+              "value": "10",
+              "synonyms": []
+            }
+          },
+          {
+            "id": "9999",
+            "name": {
+              "value": "9999",
+              "synonyms": []
+            }
+          }
+        ]
+      },
+      {
+        "name": "saladsizeslot",
+        "values": [
+          {
+            "id": null,
+            "name": {
+              "value": "half",
+              "synonyms": [
+                "half size"
+              ]
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "full",
+              "synonyms": [
+                "full size"
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "name": "saldsizeslot",
+        "values": [
+          {
+            "id": "112",
+            "name": {
+              "value": "half",
+              "synonyms": [
+                "half size",
+                "hald salad"
+              ]
+            }
+          },
+          {
+            "id": "111",
+            "name": {
+              "value": "full",
+              "synonyms": [
+                "full size",
+                "full salad"
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "name": "sauceslot",
+        "values": [
+          {
+            "id": null,
+            "name": {
+              "value": "Honey Mustard",
+              "synonyms": [
+                "Honey Mustard Sauce"
+              ]
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Buttermilk Ranch",
+              "synonyms": [
+                "Buttermilk Ranch Sauce",
+                "Ranch"
+              ]
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Creamy Sriracha",
+              "synonyms": [
+                "Creamy Sriracha Sauce",
+                "Sriracha Sauce",
+                "Sriracha"
+              ]
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Barbecue",
+              "synonyms": [
+                "Barbecue Sauce"
+              ]
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Sweet and Sour",
+              "synonyms": [
+                "Sweet and Sour Sauce"
+              ]
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "ketchup",
+              "synonyms": [
+                "tomoto ketchup"
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "name": "sideitemslot",
+        "values": [
+          {
+            "id": "607",
+            "name": {
+              "value": "cheese baked",
+              "synonyms": [
+                "cheese baked potato"
+              ]
+            }
+          },
+          {
+            "id": "606",
+            "name": {
+              "value": "sour cream and chive",
+              "synonyms": [
+                "sour cream and chive baked potato",
+                "sour cream and chive baked"
+              ]
+            }
+          },
+          {
+            "id": "604",
+            "name": {
+              "value": "bacon cheese",
+              "synonyms": [
+                "bacon cheese baked potato",
+                "bacon cheese baked"
+              ]
+            }
+          },
+          {
+            "id": "603",
+            "name": {
+              "value": "chilli cheese",
+              "synonyms": [
+                "chilli cheese baked potato",
+                "chilli cheese baked"
+              ]
+            }
+          },
+          {
+            "id": "602",
+            "name": {
+              "value": "plain baked",
+              "synonyms": [
+                "plain baked potato"
+              ]
+            }
+          },
+          {
+            "id": "612",
+            "name": {
+              "value": "chilli",
+              "synonyms": []
+            }
+          },
+          {
+            "id": "609",
+            "name": {
+              "value": "Choclate",
+              "synonyms": [
+                "Choclate Frosty"
+              ]
+            }
+          },
+          {
+            "id": "701",
+            "name": {
+              "value": "no",
+              "synonyms": [
+                "No",
+                "Nope",
+                "That is all",
+                "Thats it",
+                "that's it",
+                "Iam good",
+                "naa",
+                "that is it",
+                "no please",
+                "naa",
+                "na",
+                "i am good",
+                "thats all",
+                "That’ll be it",
+                "that will be it",
+                "no that is it",
+                "nope tht's it",
+                "no that's it"
+              ]
+            }
+          },
+          {
+            "id": "608",
+            "name": {
+              "value": "Vanilla",
+              "synonyms": [
+                "Vanilla Frosty"
+              ]
+            }
+          },
+          {
+            "id": "610",
+            "name": {
+              "value": "french fries",
+              "synonyms": [
+                "frenchfries"
+              ]
+            }
+          },
+          {
+            "id": "611",
+            "name": {
+              "value": "baconator fries",
+              "synonyms": [
+                "baconator"
+              ]
+            }
+          },
+          {
+            "id": "616",
+            "name": {
+              "value": "Apple bites",
+              "synonyms": []
+            }
+          },
+          {
+            "id": "613",
+            "name": {
+              "value": "Side Salad",
+              "synonyms": [
+                "garden side salad"
+              ]
+            }
+          },
+          {
+            "id": "614",
+            "name": {
+              "value": "four piece",
+              "synonyms": [
+                "four piece chicken nuggets",
+                "four pc chicken nuggets",
+                "4 piece chicken nuggets"
+              ]
+            }
+          },
+          {
+            "id": "615",
+            "name": {
+              "value": "six piece",
+              "synonyms": [
+                "six piece chicken nuggets",
+                "six pc chicken nuggets",
+                "6 piece chicken nuggets"
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "name": "sidesize",
+        "values": [
+          {
+            "id": null,
+            "name": {
+              "value": "small",
+              "synonyms": [
+                "Just small"
+              ]
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "large",
+              "synonyms": [
+                "big",
+                "bigger one"
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "name": "size",
+        "values": [
+          {
+            "id": null,
+            "name": {
+              "value": "small",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "medium",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "large",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "no",
+              "synonyms": [
+                "No"
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "name": "yesno",
+        "values": [
+          {
+            "id": "1029",
+            "name": {
+              "value": "y",
+              "synonyms": [
+                "yes please",
+                "Yes i want combo",
+                "combo",
+                "will do",
+                "aaha",
+                "aha",
+                "sure",
+                "yep",
+                "yep will do",
+                "sure will do",
+                "yes please"
+              ]
+            }
+          },
+          {
+            "id": "1028",
+            "name": {
+              "value": "n",
+              "synonyms": [
+                "no",
+                "thats all",
+                "no that is all",
+                "just burger",
+                "just sandwich",
+                "naah",
+                "nope",
+                "not wanted",
+                "no just sandwich",
+                "no just a sandwich"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "intents": [
+   {
+        "name": "AMAZON.CancelIntent",
+        "samples": [
+          "Please cancel the order",
+          "cancel the order",
+          "cancel order",
+          "can you please cancel the order"
+        ]
+      },
+      {
+        "name": "AMAZON.HelpIntent",
+        "samples": [
+          "Help me",
+          "I donot know",
+          "I do not understand you",
+          "do not know",
+          "do not understand you",
+          "can you please help",
+          "is there some body I can directly talk",
+          "can I talk to a person",
+          "help please"
+        ]
+      },
+      {
+        "name": "AMAZON.StopIntent",
+        "samples": [
+          "shut up",
+          "hey stop",
+          "stop"
+        ]
+      },
+      {
+        "name": "directorder",
+        "samples": [
+          "{mitem} please",
+          "one {mitem} please",
+          "can you give me a {mitem} please",
+          "can you give me a {mitem}",
+          "can you give me {mitem} please",
+          "can you give me {mitem}",
+          "give me a {mitem} please",
+          "give me a {mitem}",
+          "give me {mitem} please",
+          "give me {mitem}",
+          "can i get a {mitem} please",
+          "can i get a {mitem}",
+          "can i get {mitem} please",
+          "can i get {mitem}",
+          "I would like to have a {mitem} please",
+          "I would like to have a {mitem}",
+          "I would like to have {mitem} please",
+          "I would like to have {mitem}",
+          "I would like a {mitem} please",
+          "I would like a {mitem}",
+          "I would like {mitem} please",
+          "I would like {mitem}",
+          "I want to have a {mitem} please",
+          "I want to have a {mitem}",
+          "I want to have {mitem} please",
+          "I want to have {mitem}",
+          "I want a {mitem} please",
+          "I want a {mitem}",
+          "I want {mitem} please",
+          "I want {mitem}",
+          "get me a {mitem} please",
+          "get me a {mitem}",
+          "get me {mitem} please",
+          "get me {mitem}",
+          "can i have a {mitem} please",
+          "can i have a {mitem}",
+          "can i have {mitem} please",
+          "can i have {mitem}",
+          "want to have a {mitem} please",
+          "want to have a {mitem}",
+          "want to have {mitem} please",
+          "want to have {mitem}",
+          "like to have a {mitem} please",
+          "like to have a {mitem}",
+          "like to have {mitem} please",
+          "like to have {mitem}",
+          "would like to have a {mitem} please",
+          "would like to have a {mitem}",
+          "would like to have {mitem} please",
+          "would like to have {mitem}",
+          "{msldsize} {mitem} please",
+          "one {msldsize} {mitem} please",
+          "can you give me a {msldsize} {mitem} please",
+          "can you give me a {msldsize} {mitem}",
+          "can you give me {msldsize} {mitem} please",
+          "can you give me {msldsize} {mitem}",
+          "give me a {msldsize} {mitem} please",
+          "give me a {msldsize} {mitem}",
+          "give me {msldsize} {mitem} please",
+          "give me {msldsize} {mitem}",
+          "can i get a {msldsize} {mitem} please",
+          "can i get a {msldsize} {mitem}",
+          "can i get {msldsize} {mitem} please",
+          "can i get {msldsize} {mitem}",
+          "I would like to have a {msldsize} {mitem} please",
+          "I would like to have a {msldsize} {mitem}",
+          "I would like to have {msldsize} {mitem} please",
+          "I would like to have {msldsize} {mitem}",
+          "I would like a {msldsize} {mitem} please",
+          "I would like a {msldsize} {mitem}",
+          "I would like {msldsize} {mitem} please",
+          "I would like {msldsize} {mitem}",
+          "I want to have a {msldsize} {mitem} please",
+          "I want to have a {msldsize} {mitem}",
+          "I want to have {msldsize} {mitem} please",
+          "I want to have {msldsize} {mitem}",
+          "I want a {msldsize} {mitem} please",
+          "I want a {msldsize} {mitem}",
+          "I want {msldsize} {mitem} please",
+          "I want {msldsize} {mitem}",
+          "get me a {msldsize} {mitem} please",
+          "get me a {msldsize} {mitem}",
+          "get me {msldsize} {mitem} please",
+          "get me {msldsize} {mitem}",
+          "can i have a {msldsize} {mitem} please",
+          "can i have a {msldsize} {mitem}",
+          "can i have {msldsize} {mitem} please",
+          "can i have {msldsize} {mitem}",
+          "want to have a {msldsize} {mitem} please",
+          "want to have a {msldsize} {mitem}",
+          "want to have {msldsize} {mitem} please",
+          "want to have {msldsize} {mitem}",
+          "like to have a {msldsize} {mitem} please",
+          "like to have a {msldsize} {mitem}",
+          "like to have {msldsize} {mitem} please",
+          "like to have {msldsize} {mitem}",
+          "would like to have a {msldsize} {mitem} please",
+          "would like to have a {msldsize} {mitem}",
+          "would like to have {msldsize} {mitem} please",
+          "would like to have {msldsize} {mitem}",
+          "{mitem} {mdrink} please",
+          "{mitem} one {mdrink} please",
+          "{mitem} one {mdrink}",
+          "{mitem} and {mdrink} please",
+          "{mitem} and {mdrink}",
+          "{mitem} and one {mdrink} please",
+          "{mitem} and one {mdrink}",
+          "{mitem} along with {mdrink} please",
+          "{mitem} along with {mdrink}",
+          "{mitem} with {mdrink} please",
+          "{mitem} with {mdrink}",
+          "one {mitem} {mdrink} please",
+          "one {mitem} {mdrink}",
+          "one {mitem} one {mdrink} please",
+          "one {mitem} one {mdrink}",
+          "one {mitem} and {mdrink} please",
+          "one {mitem} and {mdrink}",
+          "one {mitem} and one {mdrink} please",
+          "one {mitem} and one {mdrink}",
+          "one {mitem} along with {mdrink} please",
+          "one {mitem} along with {mdrink}",
+          "one {mitem} with {mdrink} please",
+          "one {mitem} with {mdrink}",
+          "can you give me {mitem} {mdrink} please",
+          "can you give me {mitem} {mdrink}",
+          "can you give me {mitem} one {mdrink} please",
+          "can you give me {mitem} one {mdrink}",
+          "can you give me {mitem} and {mdrink} please",
+          "can you give me {mitem} and {mdrink}",
+          "can you give me {mitem} and one {mdrink} please",
+          "can you give me {mitem} and one {mdrink}",
+          "can you give me {mitem} along with {mdrink} please",
+          "can you give me {mitem} along with {mdrink}",
+          "can you give me {mitem} with {mdrink} please",
+          "can you give me {mitem} with {mdrink}",
+          "can you give me one {mitem} {mdrink} please",
+          "can you give me one {mitem} {mdrink}",
+          "can you give me one {mitem} one {mdrink} please",
+          "can you give me one {mitem} one {mdrink}",
+          "can you give me one {mitem} and {mdrink} please",
+          "can you give me one {mitem} and {mdrink}",
+          "can you give me one {mitem} and one {mdrink} please",
+          "can you give me one {mitem} and one {mdrink}",
+          "can you give me one {mitem} along with {mdrink} please",
+          "can you give me one {mitem} along with {mdrink}",
+          "can you give me one {mitem} with {mdrink} please",
+          "can you give me one {mitem} with {mdrink}",
+          "give me {mitem} {mdrink} please",
+          "give me {mitem} {mdrink}",
+          "give me {mitem} one {mdrink} please",
+          "give me {mitem} one {mdrink}",
+          "give me {mitem} and {mdrink} please",
+          "give me {mitem} and {mdrink}",
+          "give me {mitem} and one {mdrink} please",
+          "give me {mitem} and one {mdrink}",
+          "give me {mitem} along with {mdrink} please",
+          "give me {mitem} along with {mdrink}",
+          "give me {mitem} with {mdrink} please",
+          "give me {mitem} with {mdrink}",
+          "give me one {mitem} {mdrink} please",
+          "give me one {mitem} {mdrink}",
+          "give me one {mitem} one {mdrink} please",
+          "give me one {mitem} one {mdrink}",
+          "give me one {mitem} and {mdrink} please",
+          "give me one {mitem} and {mdrink}",
+          "give me one {mitem} and one {mdrink} please",
+          "give me one {mitem} and one {mdrink}",
+          "give me one {mitem} along with {mdrink} please",
+          "give me one {mitem} along with {mdrink}",
+          "give me one {mitem} with {mdrink} please",
+          "give me one {mitem} with {mdrink}",
+          "can i get {mitem} {mdrink} please",
+          "can i get {mitem} {mdrink}",
+          "can i get {mitem} one {mdrink} please",
+          "can i get {mitem} one {mdrink}",
+          "can i get {mitem} and {mdrink} please",
+          "can i get {mitem} and {mdrink}",
+          "can i get {mitem} and one {mdrink} please",
+          "can i get {mitem} and one {mdrink}",
+          "can i get {mitem} along with {mdrink} please",
+          "can i get {mitem} along with {mdrink}",
+          "can i get {mitem} with {mdrink} please",
+          "can i get {mitem} with {mdrink}",
+          "can i get one {mitem} {mdrink} please",
+          "can i get one {mitem} {mdrink}",
+          "can i get one {mitem} one {mdrink} please",
+          "can i get one {mitem} one {mdrink}",
+          "can i get one {mitem} and {mdrink} please",
+          "can i get one {mitem} and {mdrink}",
+          "can i get one {mitem} and one {mdrink} please",
+          "can i get one {mitem} and one {mdrink}",
+          "can i get one {mitem} along with {mdrink} please",
+          "can i get one {mitem} along with {mdrink}",
+          "can i get one {mitem} with {mdrink} please",
+          "can i get one {mitem} with {mdrink}",
+          "I would like to have {mitem} {mdrink} please",
+          "I would like to have {mitem} {mdrink}",
+          "I would like to have {mitem} one {mdrink} please",
+          "I would like to have {mitem} one {mdrink}",
+          "I would like to have {mitem} and {mdrink} please",
+          "I would like to have {mitem} and {mdrink}",
+          "I would like to have {mitem} and one {mdrink} please",
+          "I would like to have {mitem} and one {mdrink}",
+          "I would like to have {mitem} along with {mdrink} please",
+          "I would like to have {mitem} along with {mdrink}",
+          "I would like to have {mitem} with {mdrink} please",
+          "I would like to have {mitem} with {mdrink}",
+          "I would like to have one {mitem} {mdrink} please",
+          "I would like to have one {mitem} {mdrink}",
+          "I would like to have one {mitem} one {mdrink} please",
+          "I would like to have one {mitem} one {mdrink}",
+          "I would like to have one {mitem} and {mdrink} please",
+          "I would like to have one {mitem} and {mdrink}",
+          "I would like to have one {mitem} and one {mdrink} please",
+          "I would like to have one {mitem} and one {mdrink}",
+          "I would like to have one {mitem} along with {mdrink} please",
+          "I would like to have one {mitem} along with {mdrink}",
+          "I would like to have one {mitem} with {mdrink} please",
+          "I would like to have one {mitem} with {mdrink}",
+          "I would like {mitem} {mdrink} please",
+          "I would like {mitem} {mdrink}",
+          "I would like {mitem} one {mdrink} please",
+          "I would like {mitem} one {mdrink}",
+          "I would like {mitem} and {mdrink} please",
+          "I would like {mitem} and {mdrink}",
+          "I would like {mitem} and one {mdrink} please",
+          "I would like {mitem} and one {mdrink}",
+          "I would like {mitem} along with {mdrink} please",
+          "I would like {mitem} along with {mdrink}",
+          "I would like {mitem} with {mdrink} please",
+          "I would like {mitem} with {mdrink}",
+          "I would like one {mitem} {mdrink} please",
+          "I would like one {mitem} {mdrink}",
+          "I would like one {mitem} one {mdrink} please",
+          "I would like one {mitem} one {mdrink}",
+          "I would like one {mitem} and {mdrink} please",
+          "I would like one {mitem} and {mdrink}",
+          "I would like one {mitem} and one {mdrink} please",
+          "I would like one {mitem} and one {mdrink}",
+          "I would like one {mitem} along with {mdrink} please",
+          "I would like one {mitem} along with {mdrink}",
+          "I would like one {mitem} with {mdrink} please",
+          "I would like one {mitem} with {mdrink}",
+          "I want to have {mitem} {mdrink} please",
+          "I want to have {mitem} {mdrink}",
+          "I want to have {mitem} one {mdrink} please",
+          "I want to have {mitem} one {mdrink}",
+          "I want to have {mitem} and {mdrink} please",
+          "I want to have {mitem} and {mdrink}",
+          "I want to have {mitem} and one {mdrink} please",
+          "I want to have {mitem} and one {mdrink}",
+          "I want to have {mitem} along with {mdrink} please",
+          "I want to have {mitem} along with {mdrink}",
+          "I want to have {mitem} with {mdrink} please",
+          "I want to have {mitem} with {mdrink}",
+          "I want to have one {mitem} one {mdrink} please",
+          "I want to have one {mitem} one {mdrink}",
+          "I want to have one {mitem} and {mdrink} please",
+          "I want to have one {mitem} and {mdrink}",
+          "I want to have one {mitem} and one {mdrink} please",
+          "I want to have one {mitem} and one {mdrink}",
+          "I want to have one {mitem} along with {mdrink} please",
+          "I want to have one {mitem} along with {mdrink}",
+          "I want to have one {mitem} with {mdrink} please",
+          "I want to have one {mitem} with {mdrink}",
+          "I want {mitem} {mdrink} please",
+          "I want {mitem} {mdrink}",
+          "I want {mitem} one {mdrink} please",
+          "I want {mitem} one {mdrink}",
+          "I want {mitem} and {mdrink} please",
+          "I want {mitem} and {mdrink}",
+          "I want {mitem} and one {mdrink} please",
+          "I want {mitem} and one {mdrink}",
+          "I want {mitem} along with {mdrink} please",
+          "I want {mitem} along with {mdrink}",
+          "I want {mitem} with {mdrink} please",
+          "I want {mitem} with {mdrink}",
+          "I want one {mitem} {mdrink} please",
+          "I want one {mitem} {mdrink}",
+          "I want one {mitem} one {mdrink} please",
+          "I want one {mitem} one {mdrink}",
+          "I want one {mitem} and {mdrink} please",
+          "I want one {mitem} and {mdrink}",
+          "I want one {mitem} and one {mdrink} please",
+          "I want one {mitem} and one {mdrink}",
+          "I want one {mitem} along with {mdrink} please",
+          "I want one {mitem} along with {mdrink}",
+          "I want one {mitem} with {mdrink} please",
+          "I want one {mitem} with {mdrink}",
+          "get me {mitem} {mdrink} please",
+          "get me {mitem} {mdrink}",
+          "get me {mitem} one {mdrink} please",
+          "get me {mitem} one {mdrink}",
+          "get me {mitem} and {mdrink} please",
+          "get me {mitem} and {mdrink}",
+          "get me {mitem} and one {mdrink} please",
+          "get me {mitem} and one {mdrink}",
+          "get me {mitem} along with {mdrink} please",
+          "get me {mitem} along with {mdrink}",
+          "get me {mitem} with {mdrink} please",
+          "get me {mitem} with {mdrink}",
+          "get me one {mitem} {mdrink} please",
+          "get me one {mitem} {mdrink}",
+          "get me one {mitem} one {mdrink} please",
+          "get me one {mitem} one {mdrink}",
+          "get me one {mitem} and {mdrink} please",
+          "get me one {mitem} and {mdrink}",
+          "get me one {mitem} and one {mdrink} please",
+          "get me one {mitem} and one {mdrink}",
+          "get me one {mitem} along with {mdrink} please",
+          "get me one {mitem} along with {mdrink}",
+          "get me one {mitem} with {mdrink} please",
+          "get me one {mitem} with {mdrink}",
+          "can i have {mitem} {mdrink} please",
+          "can i have {mitem} {mdrink}",
+          "can i have {mitem} one {mdrink} please",
+          "can i have {mitem} one {mdrink}",
+          "can i have {mitem} and {mdrink} please",
+          "can i have {mitem} and {mdrink}",
+          "can i have {mitem} and one {mdrink} please",
+          "can i have {mitem} and one {mdrink}",
+          "can i have {mitem} along with {mdrink} please",
+          "can i have {mitem} along with {mdrink}",
+          "can i have {mitem} with {mdrink} please",
+          "can i have {mitem} with {mdrink}",
+          "can i have one {mitem} {mdrink} please",
+          "can i have one {mitem} {mdrink}",
+          "can i have one {mitem} one {mdrink} please",
+          "can i have one {mitem} one {mdrink}",
+          "can i have one {mitem} and {mdrink} please",
+          "can i have one {mitem} and {mdrink}",
+          "can i have one {mitem} and one {mdrink} please",
+          "can i have one {mitem} and one {mdrink}",
+          "can i have one {mitem} along with {mdrink} please",
+          "can i have one {mitem} along with {mdrink}",
+          "can i have one {mitem} with {mdrink} please",
+          "can i have one {mitem} with {mdrink}",
+          "{mitem} {mdrinksize} {mdrink} please",
+          "{mitem} one {mdrinksize} {mdrink} please",
+          "{mitem} one {mdrinksize} {mdrink}",
+          "{mitem} and {mdrinksize} {mdrink} please",
+          "{mitem} and {mdrinksize} {mdrink}",
+          "{mitem} and one {mdrinksize} {mdrink} please",
+          "{mitem} and one {mdrinksize} {mdrink}",
+          "{mitem} along with {mdrinksize} {mdrink} please",
+          "{mitem} along with {mdrinksize} {mdrink}",
+          "{mitem} with {mdrinksize} {mdrink} please",
+          "{mitem} with {mdrinksize} {mdrink}",
+          "one {mitem} {mdrinksize} {mdrink} please",
+          "one {mitem} {mdrinksize} {mdrink}",
+          "one {mitem} one {mdrinksize} {mdrink} please",
+          "one {mitem} one {mdrinksize} {mdrink}",
+          "one {mitem} and {mdrinksize} {mdrink} please",
+          "one {mitem} and {mdrinksize} {mdrink}",
+          "one {mitem} and one {mdrinksize} {mdrink} please",
+          "one {mitem} and one {mdrinksize} {mdrink}",
+          "one {mitem} along with {mdrinksize} {mdrink} please",
+          "one {mitem} along with {mdrinksize} {mdrink}",
+          "one {mitem} with {mdrinksize} {mdrink} please",
+          "one {mitem} with {mdrinksize} {mdrink}",
+          "can you give me {mitem} {mdrinksize} {mdrink} please",
+          "can you give me {mitem} {mdrinksize} {mdrink}",
+          "can you give me {mitem} one {mdrinksize} {mdrink} please",
+          "can you give me {mitem} one {mdrinksize} {mdrink}",
+          "can you give me {mitem} and {mdrinksize} {mdrink} please",
+          "can you give me {mitem} and {mdrinksize} {mdrink}",
+          "can you give me {mitem} and one {mdrinksize} {mdrink} please",
+          "can you give me {mitem} and one {mdrinksize} {mdrink}",
+          "can you give me {mitem} along with {mdrinksize} {mdrink} please",
+          "can you give me {mitem} along with {mdrinksize} {mdrink}",
+          "can you give me {mitem} with {mdrinksize} {mdrink} please",
+          "can you give me {mitem} with {mdrinksize} {mdrink}",
+          "can you give me one {mitem} {mdrinksize} {mdrink} please",
+          "can you give me one {mitem} {mdrinksize} {mdrink}",
+          "can you give me one {mitem} one {mdrinksize} {mdrink} please",
+          "can you give me one {mitem} one {mdrinksize} {mdrink}",
+          "can you give me one {mitem} and {mdrinksize} {mdrink} please",
+          "can you give me one {mitem} and {mdrinksize} {mdrink}",
+          "can you give me one {mitem} and one {mdrinksize} {mdrink} please",
+          "can you give me one {mitem} and one {mdrinksize} {mdrink}",
+          "can you give me one {mitem} along with {mdrinksize} {mdrink} please",
+          "can you give me one {mitem} along with {mdrinksize} {mdrink}",
+          "can you give me one {mitem} with {mdrinksize} {mdrink} please",
+          "can you give me one {mitem} with {mdrinksize} {mdrink}",
+          "give me {mitem} {mdrinksize} {mdrink} please",
+          "give me {mitem} {mdrinksize} {mdrink}",
+          "give me {mitem} one {mdrinksize} {mdrink} please",
+          "give me {mitem} one {mdrinksize} {mdrink}",
+          "give me {mitem} and {mdrinksize} {mdrink} please",
+          "give me {mitem} and {mdrinksize} {mdrink}",
+          "give me {mitem} and one {mdrinksize} {mdrink} please",
+          "give me {mitem} and one {mdrinksize} {mdrink}",
+          "give me {mitem} along with {mdrinksize} {mdrink} please",
+          "give me {mitem} along with {mdrinksize} {mdrink}",
+          "give me {mitem} with {mdrinksize} {mdrink} please",
+          "give me {mitem} with {mdrinksize} {mdrink}",
+          "give me one {mitem} {mdrinksize} {mdrink} please",
+          "give me one {mitem} {mdrinksize} {mdrink}",
+          "give me one {mitem} one {mdrinksize} {mdrink} please",
+          "give me one {mitem} one {mdrinksize} {mdrink}",
+          "give me one {mitem} and {mdrinksize} {mdrink} please",
+          "give me one {mitem} and {mdrinksize} {mdrink}",
+          "give me one {mitem} and one {mdrinksize} {mdrink} please",
+          "give me one {mitem} and one {mdrinksize} {mdrink}",
+          "give me one {mitem} along with {mdrinksize} {mdrink} please",
+          "give me one {mitem} along with {mdrinksize} {mdrink}",
+          "give me one {mitem} with {mdrinksize} {mdrink} please",
+          "give me one {mitem} with {mdrinksize} {mdrink}",
+          "can i get {mitem} {mdrinksize} {mdrink} please",
+          "can i get {mitem} {mdrinksize} {mdrink}",
+          "can i get {mitem} one {mdrinksize} {mdrink} please",
+          "can i get {mitem} one {mdrinksize} {mdrink}",
+          "can i get {mitem} and {mdrinksize} {mdrink} please",
+          "can i get {mitem} and {mdrinksize} {mdrink}",
+          "can i get {mitem} and one {mdrinksize} {mdrink} please",
+          "can i get {mitem} and one {mdrinksize} {mdrink}",
+          "can i get {mitem} along with {mdrinksize} {mdrink} please",
+          "can i get {mitem} along with {mdrinksize} {mdrink}",
+          "can i get {mitem} with {mdrinksize} {mdrink} please",
+          "can i get {mitem} with {mdrinksize} {mdrink}",
+          "can i get one {mitem} {mdrinksize} {mdrink} please",
+          "can i get one {mitem} {mdrinksize} {mdrink}",
+          "can i get one {mitem} one {mdrinksize} {mdrink} please",
+          "can i get one {mitem} one {mdrinksize} {mdrink}",
+          "can i get one {mitem} and {mdrinksize} {mdrink} please",
+          "can i get one {mitem} and {mdrinksize} {mdrink}",
+          "can i get one {mitem} and one {mdrinksize} {mdrink} please",
+          "can i get one {mitem} and one {mdrinksize} {mdrink}",
+          "can i get one {mitem} along with {mdrinksize} {mdrink} please",
+          "can i get one {mitem} along with {mdrinksize} {mdrink}",
+          "can i get one {mitem} with {mdrinksize} {mdrink} please",
+          "can i get one {mitem} with {mdrinksize} {mdrink}",
+          "I would like to have {mitem} {mdrinksize} {mdrink} please",
+          "I would like to have {mitem} {mdrinksize} {mdrink}",
+          "I would like to have {mitem} one {mdrinksize} {mdrink} please",
+          "I would like to have {mitem} one {mdrinksize} {mdrink}",
+          "I would like to have {mitem} and {mdrinksize} {mdrink} please",
+          "I would like to have {mitem} and {mdrinksize} {mdrink}",
+          "I would like to have {mitem} and one {mdrinksize} {mdrink} please",
+          "I would like to have {mitem} and one {mdrinksize} {mdrink}",
+          "I would like to have {mitem} along with {mdrinksize} {mdrink} please",
+          "I would like to have {mitem} along with {mdrinksize} {mdrink}",
+          "I would like to have {mitem} with {mdrinksize} {mdrink} please",
+          "I would like to have {mitem} with {mdrinksize} {mdrink}",
+          "I would like to have one {mitem} {mdrinksize} {mdrink} please",
+          "I would like to have one {mitem} {mdrinksize} {mdrink}",
+          "I would like to have one {mitem} one {mdrinksize} {mdrink} please",
+          "I would like to have one {mitem} one {mdrinksize} {mdrink}",
+          "I would like to have one {mitem} and {mdrinksize} {mdrink} please",
+          "I would like to have one {mitem} and {mdrinksize} {mdrink}",
+          "I would like to have one {mitem} and one {mdrinksize} {mdrink} please",
+          "I would like to have one {mitem} and one {mdrinksize} {mdrink}",
+          "I would like to have one {mitem} along with {mdrinksize} {mdrink} please",
+          "I would like to have one {mitem} along with {mdrinksize} {mdrink}",
+          "I would like to have one {mitem} with {mdrinksize} {mdrink} please",
+          "I would like to have one {mitem} with {mdrinksize} {mdrink}",
+          "I would like {mitem} {mdrinksize} {mdrink} please",
+          "I would like {mitem} {mdrinksize} {mdrink}",
+          "I would like {mitem} one {mdrinksize} {mdrink} please",
+          "I would like {mitem} one {mdrinksize} {mdrink}",
+          "I would like {mitem} and {mdrinksize} {mdrink} please",
+          "I would like {mitem} and {mdrinksize} {mdrink}",
+          "I would like {mitem} and one {mdrinksize} {mdrink} please",
+          "I would like {mitem} and one {mdrinksize} {mdrink}",
+          "I would like {mitem} along with {mdrinksize} {mdrink} please",
+          "I would like {mitem} along with {mdrinksize} {mdrink}",
+          "I would like {mitem} with {mdrinksize} {mdrink} please",
+          "I would like {mitem} with {mdrinksize} {mdrink}",
+          "I would like one {mitem} {mdrinksize} {mdrink} please",
+          "I would like one {mitem} {mdrinksize} {mdrink}",
+          "I would like one {mitem} one {mdrinksize} {mdrink} please",
+          "I would like one {mitem} one {mdrinksize} {mdrink}",
+          "I would like one {mitem} and {mdrinksize} {mdrink} please",
+          "I would like one {mitem} and {mdrinksize} {mdrink}",
+          "I would like one {mitem} and one {mdrinksize} {mdrink} please",
+          "I would like one {mitem} and one {mdrinksize} {mdrink}",
+          "I would like one {mitem} along with {mdrinksize} {mdrink} please",
+          "I would like one {mitem} along with {mdrinksize} {mdrink}",
+          "I would like one {mitem} with {mdrinksize} {mdrink} please",
+          "I would like one {mitem} with {mdrinksize} {mdrink}",
+          "I want to have {mitem} {mdrinksize} {mdrink} please",
+          "I want to have {mitem} {mdrinksize} {mdrink}",
+          "I want to have {mitem} one {mdrinksize} {mdrink} please",
+          "I want to have {mitem} one {mdrinksize} {mdrink}",
+          "I want to have {mitem} and {mdrinksize} {mdrink} please",
+          "I want to have {mitem} and {mdrinksize} {mdrink}",
+          "I want to have {mitem} and one {mdrinksize} {mdrink} please",
+          "I want to have {mitem} and one {mdrinksize} {mdrink}",
+          "I want to have {mitem} along with {mdrinksize} {mdrink} please",
+          "I want to have {mitem} along with {mdrinksize} {mdrink}",
+          "I want to have {mitem} with {mdrinksize} {mdrink} please",
+          "I want to have {mitem} with {mdrinksize} {mdrink}",
+          "I want to have one {mitem} {mdrinksize} {mdrink} please",
+          "I want to have one {mitem} {mdrinksize} {mdrink}",
+          "I want to have one {mitem} one {mdrinksize} {mdrink} please",
+          "I want to have one {mitem} one {mdrinksize} {mdrink}",
+          "I want to have one {mitem} and {mdrinksize} {mdrink} please",
+          "I want to have one {mitem} and {mdrinksize} {mdrink}",
+          "I want to have one {mitem} and one {mdrinksize} {mdrink} please",
+          "I want to have one {mitem} and one {mdrinksize} {mdrink}",
+          "I want to have one {mitem} along with {mdrinksize} {mdrink} please",
+          "I want to have one {mitem} along with {mdrinksize} {mdrink}",
+          "I want to have one {mitem} with {mdrinksize} {mdrink} please",
+          "I want to have one {mitem} with {mdrinksize} {mdrink}",
+          "I want {mitem} {mdrinksize} {mdrink} please",
+          "I want {mitem} {mdrinksize} {mdrink}",
+          "I want {mitem} one {mdrinksize} {mdrink} please",
+          "I want {mitem} one {mdrinksize} {mdrink}",
+          "I want {mitem} and {mdrinksize} {mdrink} please",
+          "I want {mitem} and {mdrinksize} {mdrink}",
+          "I want {mitem} and one {mdrinksize} {mdrink} please",
+          "I want {mitem} and one {mdrinksize} {mdrink}",
+          "I want {mitem} along with {mdrinksize} {mdrink} please",
+          "I want {mitem} along with {mdrinksize} {mdrink}",
+          "I want {mitem} with {mdrinksize} {mdrink} please",
+          "I want {mitem} with {mdrinksize} {mdrink}",
+          "I want one {mitem} {mdrinksize} {mdrink} please",
+          "I want one {mitem} {mdrinksize} {mdrink}",
+          "I want one {mitem} one {mdrinksize} {mdrink} please",
+          "I want one {mitem} one {mdrinksize} {mdrink}",
+          "I want one {mitem} and {mdrinksize} {mdrink} please",
+          "I want one {mitem} and {mdrinksize} {mdrink}",
+          "I want one {mitem} and one {mdrinksize} {mdrink} please",
+          "I want one {mitem} and one {mdrinksize} {mdrink}",
+          "I want one {mitem} along with {mdrinksize} {mdrink} please",
+          "I want one {mitem} along with {mdrinksize} {mdrink}",
+          "I want one {mitem} with {mdrinksize} {mdrink} please",
+          "I want one {mitem} with {mdrinksize} {mdrink}",
+          "get me {mitem} {mdrinksize} {mdrink} please",
+          "get me {mitem} {mdrinksize} {mdrink}",
+          "get me {mitem} one {mdrinksize} {mdrink} please",
+          "get me {mitem} one {mdrinksize} {mdrink}",
+          "get me {mitem} and {mdrinksize} {mdrink} please",
+          "get me {mitem} and {mdrinksize} {mdrink}",
+          "get me {mitem} and one {mdrinksize} {mdrink} please",
+          "get me {mitem} and one {mdrinksize} {mdrink}",
+          "get me {mitem} along with {mdrinksize} {mdrink} please",
+          "get me {mitem} along with {mdrinksize} {mdrink}",
+          "get me {mitem} with {mdrinksize} {mdrink} please",
+          "get me {mitem} with {mdrinksize} {mdrink}",
+          "get me one {mitem} {mdrinksize} {mdrink} please",
+          "get me one {mitem} {mdrinksize} {mdrink}",
+          "get me one {mitem} one {mdrinksize} {mdrink} please",
+          "get me one {mitem} one {mdrinksize} {mdrink}",
+          "get me one {mitem} and {mdrinksize} {mdrink} please",
+          "get me one {mitem} and {mdrinksize} {mdrink}",
+          "get me one {mitem} and one {mdrinksize} {mdrink} please",
+          "get me one {mitem} and one {mdrinksize} {mdrink}",
+          "get me one {mitem} along with {mdrinksize} {mdrink} please",
+          "get me one {mitem} along with {mdrinksize} {mdrink}",
+          "get me one {mitem} with {mdrinksize} {mdrink} please",
+          "get me one {mitem} with {mdrinksize} {mdrink}",
+          "can i have {mitem} {mdrinksize} {mdrink} please",
+          "can i have {mitem} {mdrinksize} {mdrink}",
+          "can i have {mitem} one {mdrinksize} {mdrink} please",
+          "can i have {mitem} one {mdrinksize} {mdrink}",
+          "can i have {mitem} and {mdrinksize} {mdrink} please",
+          "can i have {mitem} and {mdrinksize} {mdrink}",
+          "can i have {mitem} and one {mdrinksize} {mdrink} please",
+          "can i have {mitem} and one {mdrinksize} {mdrink}",
+          "can i have {mitem} along with {mdrinksize} {mdrink} please",
+          "can i have {mitem} along with {mdrinksize} {mdrink}",
+          "can i have {mitem} with {mdrinksize} {mdrink} please",
+          "can i have {mitem} with {mdrinksize} {mdrink}",
+          "can i have one {mitem} {mdrinksize} {mdrink} please",
+          "can i have one {mitem} {mdrinksize} {mdrink}",
+          "can i have one {mitem} one {mdrinksize} {mdrink} please",
+          "can i have one {mitem} one {mdrinksize} {mdrink}",
+          "can i have one {mitem} and {mdrinksize} {mdrink} please",
+          "can i have one {mitem} and {mdrinksize} {mdrink}",
+          "can i have one {mitem} and one {mdrinksize} {mdrink} please",
+          "can i have one {mitem} and one {mdrinksize} {mdrink}",
+          "can i have one {mitem} along with {mdrinksize} {mdrink} please",
+          "can i have one {mitem} along with {mdrinksize} {mdrink}",
+          "can i have one {mitem} with {mdrinksize} {mdrink} please",
+          "can i have one {mitem} with {mdrinksize} {mdrink}",
+          "{mitem} along with {mdressing} please",
+          "{mitem} along with {mdressing}",
+          "{mitem} with {mdressing} please",
+          "{mitem} with {mdressing}",
+          "one {mitem} along with {mdressing} please",
+          "one {mitem} along with {mdressing}",
+          "one {mitem} with {mdressing} please",
+          "one {mitem} with {mdressing}",
+          "can you give me {mitem} along with {mdressing} please",
+          "can you give me {mitem} along with {mdressing}",
+          "can you give me {mitem} with {mdressing} please",
+          "can you give me {mitem} with {mdressing}",
+          "can you give me one {mitem} along with {mdressing} please",
+          "can you give me one {mitem} along with {mdressing}",
+          "can you give me one {mitem} with {mdressing} please",
+          "can you give me one {mitem} with {mdressing}",
+          "give me {mitem} along with {mdressing} please",
+          "give me {mitem} along with {mdressing}",
+          "give me {mitem} with {mdressing} please",
+          "give me {mitem} with {mdressing}",
+          "give me one {mitem} along with {mdressing} please",
+          "give me one {mitem} along with {mdressing}",
+          "give me one {mitem} with {mdressing} please",
+          "give me one {mitem} with {mdressing}",
+          "can i get {mitem} along with {mdressing} please",
+          "can i get {mitem} along with {mdressing}",
+          "can i get {mitem} with {mdressing} please",
+          "can i get {mitem} with {mdressing}",
+          "can i get one {mitem} along with {mdressing} please",
+          "can i get one {mitem} along with {mdressing}",
+          "can i get one {mitem} with {mdressing} please",
+          "can i get one {mitem} with {mdressing}",
+          "I would like to have {mitem} along with {mdressing} please",
+          "I would like to have {mitem} along with {mdressing}",
+          "I would like to have {mitem} with {mdressing} please",
+          "I would like to have {mitem} with {mdressing}",
+          "I would like to have one {mitem} along with {mdressing} please",
+          "I would like to have one {mitem} along with {mdressing}",
+          "I would like to have one {mitem} with {mdressing} please",
+          "I would like to have one {mitem} with {mdressing}",
+          "I would like {mitem} along with {mdressing} please",
+          "I would like {mitem} along with {mdressing}",
+          "I would like {mitem} with {mdressing} please",
+          "I would like {mitem} with {mdressing}",
+          "I would like one {mitem} along with {mdressing} please",
+          "I would like one {mitem} along with {mdressing}",
+          "I would like one {mitem} with {mdressing} please",
+          "I would like one {mitem} with {mdressing}",
+          "I want to have {mitem} along with {mdressing} please",
+          "I want to have {mitem} along with {mdressing}",
+          "I want to have {mitem} with {mdressing} please",
+          "I want to have {mitem} with {mdressing}",
+          "I want to have one {mitem} along with {mdressing} please",
+          "I want to have one {mitem} along with {mdressing}",
+          "I want to have one {mitem} with {mdressing} please",
+          "I want to have one {mitem} with {mdressing}",
+          "I want {mitem} along with {mdressing} please",
+          "I want {mitem} along with {mdressing}",
+          "I want {mitem} with {mdressing} please",
+          "I want {mitem} with {mdressing}",
+          "I want one {mitem} along with {mdressing} please",
+          "I want one {mitem} along with {mdressing}",
+          "I want one {mitem} with {mdressing} please",
+          "I want one {mitem} with {mdressing}",
+          "get me {mitem} along with {mdressing} please",
+          "get me {mitem} along with {mdressing}",
+          "get me {mitem} with {mdressing} please",
+          "get me {mitem} with {mdressing}",
+          "get me one {mitem} along with {mdressing} please",
+          "get me one {mitem} along with {mdressing}",
+          "get me one {mitem} with {mdressing} please",
+          "get me one {mitem} with {mdressing}",
+          "can i have {mitem} along with {mdressing} please",
+          "can i have {mitem} along with {mdressing}",
+          "can i have {mitem} with {mdressing} please",
+          "can i have {mitem} with {mdressing}",
+          "can i have one {mitem} along with {mdressing} please",
+          "can i have one {mitem} along with {mdressing}",
+          "can i have one {mitem} with {mdressing} please",
+          "can i have one {mitem} with {mdressing}",
+          "What do you have with {mitem} please",
+          "What do you have with {mitem}",
+          "What do you have in {mitem} please",
+          "What do you have in {mitem}",
+          "can you give me something {mitem} please",
+          "can you give me something {mitem}",
+          "can you give me something with {mitem} please",
+          "can you give me something with {mitem}",
+          "can you give me something in {mitem} please",
+          "can you give me something in {mitem}",
+          "can you give me something that has {mitem} please",
+          "can you give me something that has {mitem}",
+          "give me something {mitem} please",
+          "give me something {mitem}",
+          "give me something with {mitem} please",
+          "give me something with {mitem}",
+          "give me something in {mitem} please",
+          "give me something in {mitem}",
+          "give me something that has {mitem} please",
+          "give me something that has {mitem}",
+          "can i get something {mitem} please",
+          "can i get something {mitem}",
+          "can i get something with {mitem} please",
+          "can i get something with {mitem}",
+          "can i get something in {mitem} please",
+          "can i get something in {mitem}",
+          "can i get something that has {mitem} please",
+          "can i get something that has {mitem}",
+          "I would like to have something {mitem} please",
+          "I would like to have something {mitem}",
+          "I would like to have something with {mitem} please",
+          "I would like to have something with {mitem}",
+          "I would like to have something in {mitem} please",
+          "I would like to have something in {mitem}",
+          "I would like to have something that has {mitem} please",
+          "I would like to have something that has {mitem}",
+          "I would like something {mitem} please",
+          "I would like something {mitem}",
+          "I would like something with {mitem} please",
+          "I would like something with {mitem}",
+          "I would like something in {mitem} please",
+          "I would like something in {mitem}",
+          "I would like something that has {mitem} please",
+          "I would like something that has {mitem}",
+          "I want to have something {mitem} please",
+          "I want to have something {mitem}",
+          "I want to have something with {mitem} please",
+          "I want to have something with {mitem}",
+          "I want to have something in {mitem} please",
+          "I want to have something in {mitem}",
+          "I want to have something that has {mitem} please",
+          "I want to have something that has {mitem}",
+          "I want something {mitem} please",
+          "I want something {mitem}",
+          "I want something with {mitem} please",
+          "I want something with {mitem}",
+          "I want something in {mitem} please",
+          "I want something in {mitem}",
+          "I want something that has {mitem} please",
+          "I want something that has {mitem}",
+          "get me something {mitem} please",
+          "get me something {mitem}",
+          "get me something with {mitem} please",
+          "get me something with {mitem}",
+          "get me something in {mitem} please",
+          "get me something in {mitem}",
+          "get me something that has {mitem} please",
+          "get me something that has {mitem}",
+          "can i have something {mitem} please",
+          "can i have something {mitem}",
+          "can i have something with {mitem} please",
+          "can i have something with {mitem}",
+          "can i have something in {mitem} please",
+          "can i have something in {mitem}",
+          "can i have something that has {mitem} please",
+          "can i have something that has {mitem}",
+          "want to have something {mitem} please",
+          "want to have something {mitem}",
+          "want to have something with {mitem} please",
+          "want to have something with {mitem}",
+          "want to have something in {mitem} please",
+          "want to have something in {mitem}",
+          "want to have something that has {mitem} please",
+          "want to have something that has {mitem}",
+          "like to have something {mitem} please",
+          "like to have something {mitem}",
+          "like to have something with {mitem} please",
+          "like to have something with {mitem}",
+          "like to have something in {mitem} please",
+          "like to have something in {mitem}",
+          "like to have something that has {mitem} please",
+          "like to have something that has {mitem}",
+          "would like to have something {mitem} please",
+          "would like to have something {mitem}",
+          "would like to have something with {mitem} please",
+          "would like to have something with {mitem}",
+          "would like to have something in {mitem} please",
+          "would like to have something in {mitem}",
+          "would like to have something that has {mitem} please",
+          "would like to have something that has {mitem}",
+          "do you have anything with {mitem} please",
+          "do you have anything with {mitem}",
+          "do you have anything in {mitem} please",
+          "do you have anything in {mitem}",
+          "you got anything with {mitem} please",
+          "you got anything with {mitem}",
+          "you got anything in {mitem} please",
+          "you got anything in {mitem}",
+          "number {bno} please",
+          "number {bno}",
+          "can you give me number {bno} please",
+          "can you give me number {bno}",
+          "give me number {bno} please",
+          "give me number {bno}",
+          "can i get number {bno} please",
+          "can i get number {bno}",
+          "I would like to have number {bno} please",
+          "I would like to have number {bno}",
+          "I would like number {bno} please",
+          "I would like number {bno}",
+          "I want to have number {bno} please",
+          "I want to have number {bno}",
+          "I want number {bno} please",
+          "I want number {bno}",
+          "get me number {bno} please",
+          "get me number {bno}",
+          "can i have number {bno} please",
+          "can i have number {bno}",
+          "hi number {bno} please",
+          "hi number {bno}",
+          "hi can you give me number {bno} please",
+          "hi can you give me number {bno}",
+          "hi give me number {bno} please",
+          "hi give me number {bno}",
+          "hi can i get number {bno} please",
+          "hi can i get number {bno}",
+          "hi I would like to have number {bno} please",
+          "hi I would like to have number {bno}",
+          "hi I would like number {bno} please",
+          "hi I would like number {bno}",
+          "hi I want to have number {bno} please",
+          "hi I want to have number {bno}",
+          "hi I want number {bno} please",
+          "hi I want number {bno}",
+          "hi get me number {bno} please",
+          "hi get me number {bno}",
+          "hi can i have number {bno} please",
+          "hi can i have number {bno}",
+          "number {bno} {mdrink} please",
+          "number {bno} {mdrink}",
+          "number {bno} one {mdrink} please",
+          "number {bno} one {mdrink}",
+          "number {bno} and {mdrink} please",
+          "number {bno} and {mdrink}",
+          "number {bno} and one {mdrink} please",
+          "number {bno} and one {mdrink}",
+          "number {bno} along with {mdrink} please",
+          "number {bno} along with {mdrink}",
+          "number {bno} and also {mdrink} please",
+          "number {bno} and also {mdrink}",
+          "number {bno} with {mdrink} please",
+          "number {bno} with {mdrink}",
+          "can you give me number {bno} {mdrink} please",
+          "can you give me number {bno} {mdrink}",
+          "can you give me number {bno} one {mdrink} please",
+          "can you give me number {bno} one {mdrink}",
+          "can you give me number {bno} and {mdrink} please",
+          "can you give me number {bno} and {mdrink}",
+          "can you give me number {bno} and one {mdrink} please",
+          "can you give me number {bno} and one {mdrink}",
+          "can you give me number {bno} along with {mdrink} please",
+          "can you give me number {bno} along with {mdrink}",
+          "can you give me number {bno} and also {mdrink} please",
+          "can you give me number {bno} and also {mdrink}",
+          "can you give me number {bno} with {mdrink} please",
+          "can you give me number {bno} with {mdrink}",
+          "give me number {bno} {mdrink} please",
+          "give me number {bno} {mdrink}",
+          "give me number {bno} one {mdrink} please",
+          "give me number {bno} one {mdrink}",
+          "give me number {bno} and {mdrink} please",
+          "give me number {bno} and {mdrink}",
+          "give me number {bno} and one {mdrink} please",
+          "give me number {bno} and one {mdrink}",
+          "give me number {bno} along with {mdrink} please",
+          "give me number {bno} along with {mdrink}",
+          "give me number {bno} and also {mdrink} please",
+          "give me number {bno} and also {mdrink}",
+          "give me number {bno} with {mdrink} please",
+          "give me number {bno} with {mdrink}",
+          "can i get number {bno} {mdrink} please",
+          "can i get number {bno} {mdrink}",
+          "can i get number {bno} one {mdrink} please",
+          "can i get number {bno} one {mdrink}",
+          "can i get number {bno} and {mdrink} please",
+          "can i get number {bno} and {mdrink}",
+          "can i get number {bno} and one {mdrink} please",
+          "can i get number {bno} and one {mdrink}",
+          "can i get number {bno} along with {mdrink} please",
+          "can i get number {bno} along with {mdrink}",
+          "can i get number {bno} and also {mdrink} please",
+          "can i get number {bno} and also {mdrink}",
+          "can i get number {bno} with {mdrink} please",
+          "can i get number {bno} with {mdrink}",
+          "I would like to have number {bno} {mdrink} please",
+          "I would like to have number {bno} {mdrink}",
+          "I would like to have number {bno} one {mdrink} please",
+          "I would like to have number {bno} one {mdrink}",
+          "I would like to have number {bno} and {mdrink} please",
+          "I would like to have number {bno} and {mdrink}",
+          "I would like to have number {bno} and one {mdrink} please",
+          "I would like to have number {bno} and one {mdrink}",
+          "I would like to have number {bno} along with {mdrink} please",
+          "I would like to have number {bno} along with {mdrink}",
+          "I would like to have number {bno} and also {mdrink} please",
+          "I would like to have number {bno} and also {mdrink}",
+          "I would like to have number {bno} with {mdrink} please",
+          "I would like to have number {bno} with {mdrink}",
+          "I would like number {bno} {mdrink} please",
+          "I would like number {bno} {mdrink}",
+          "I would like number {bno} one {mdrink} please",
+          "I would like number {bno} one {mdrink}",
+          "I would like number {bno} and {mdrink} please",
+          "I would like number {bno} and {mdrink}",
+          "I would like number {bno} and one {mdrink} please",
+          "I would like number {bno} and one {mdrink}",
+          "I would like number {bno} along with {mdrink} please",
+          "I would like number {bno} along with {mdrink}",
+          "I would like number {bno} and also {mdrink} please",
+          "I would like number {bno} and also {mdrink}",
+          "I would like number {bno} with {mdrink} please",
+          "I would like number {bno} with {mdrink}",
+          "I want to have number {bno} {mdrink} please",
+          "I want to have number {bno} {mdrink}",
+          "I want to have number {bno} one {mdrink} please",
+          "I want to have number {bno} one {mdrink}",
+          "I want to have number {bno} and {mdrink} please",
+          "I want to have number {bno} and {mdrink}",
+          "I want to have number {bno} and one {mdrink} please",
+          "I want to have number {bno} and one {mdrink}",
+          "I want to have number {bno} along with {mdrink} please",
+          "I want to have number {bno} along with {mdrink}",
+          "I want to have number {bno} and also {mdrink} please",
+          "I want to have number {bno} and also {mdrink}",
+          "I want to have number {bno} with {mdrink} please",
+          "I want to have number {bno} with {mdrink}",
+          "I want number {bno} {mdrink} please",
+          "I want number {bno} {mdrink}",
+          "I want number {bno} one {mdrink} please",
+          "I want number {bno} one {mdrink}",
+          "I want number {bno} and {mdrink} please",
+          "I want number {bno} and {mdrink}",
+          "I want number {bno} and one {mdrink} please",
+          "I want number {bno} and one {mdrink}",
+          "I want number {bno} along with {mdrink} please",
+          "I want number {bno} along with {mdrink}",
+          "I want number {bno} and also {mdrink} please",
+          "I want number {bno} and also {mdrink}",
+          "I want number {bno} with {mdrink} please",
+          "I want number {bno} with {mdrink}",
+          "get me number {bno} {mdrink} please",
+          "get me number {bno} {mdrink}",
+          "get me number {bno} one {mdrink} please",
+          "get me number {bno} one {mdrink}",
+          "get me number {bno} and {mdrink} please",
+          "get me number {bno} and {mdrink}",
+          "get me number {bno} and one {mdrink} please",
+          "get me number {bno} and one {mdrink}",
+          "get me number {bno} along with {mdrink} please",
+          "get me number {bno} along with {mdrink}",
+          "get me number {bno} and also {mdrink} please",
+          "get me number {bno} and also {mdrink}",
+          "get me number {bno} with {mdrink} please",
+          "get me number {bno} with {mdrink}",
+          "can i have number {bno} {mdrink} please",
+          "can i have number {bno} {mdrink}",
+          "can i have number {bno} one {mdrink} please",
+          "can i have number {bno} one {mdrink}",
+          "can i have number {bno} and {mdrink} please",
+          "can i have number {bno} and {mdrink}",
+          "can i have number {bno} and one {mdrink} please",
+          "can i have number {bno} and one {mdrink}",
+          "can i have number {bno} along with {mdrink} please",
+          "can i have number {bno} along with {mdrink}",
+          "can i have number {bno} and also {mdrink} please",
+          "can i have number {bno} and also {mdrink}",
+          "can i have number {bno} with {mdrink} please",
+          "can i have number {bno} with {mdrink}",
+          "hi number {bno} {mdrink} please",
+          "hi number {bno} {mdrink}",
+          "hi number {bno} one {mdrink} please",
+          "hi number {bno} one {mdrink}",
+          "hi number {bno} and {mdrink} please",
+          "hi number {bno} and {mdrink}",
+          "hi number {bno} and one {mdrink} please",
+          "hi number {bno} and one {mdrink}",
+          "hi number {bno} along with {mdrink} please",
+          "hi number {bno} along with {mdrink}",
+          "hi number {bno} and also {mdrink} please",
+          "hi number {bno} and also {mdrink}",
+          "hi number {bno} with {mdrink} please",
+          "hi number {bno} with {mdrink}",
+          "hi can you give me number {bno} {mdrink} please",
+          "hi can you give me number {bno} {mdrink}",
+          "hi can you give me number {bno} one {mdrink} please",
+          "hi can you give me number {bno} one {mdrink}",
+          "hi can you give me number {bno} and {mdrink} please",
+          "hi can you give me number {bno} and {mdrink}",
+          "hi can you give me number {bno} and one {mdrink} please",
+          "hi can you give me number {bno} and one {mdrink}",
+          "hi can you give me number {bno} along with {mdrink} please",
+          "hi can you give me number {bno} along with {mdrink}",
+          "hi can you give me number {bno} and also {mdrink} please",
+          "hi can you give me number {bno} and also {mdrink}",
+          "hi can you give me number {bno} with {mdrink} please",
+          "hi can you give me number {bno} with {mdrink}",
+          "hi give me number {bno} {mdrink} please",
+          "hi give me number {bno} {mdrink}",
+          "hi give me number {bno} one {mdrink} please",
+          "hi give me number {bno} one {mdrink}",
+          "hi give me number {bno} and {mdrink} please",
+          "hi give me number {bno} and {mdrink}",
+          "hi give me number {bno} and one {mdrink} please",
+          "hi give me number {bno} and one {mdrink}",
+          "hi give me number {bno} along with {mdrink} please",
+          "hi give me number {bno} along with {mdrink}",
+          "hi give me number {bno} and also {mdrink} please",
+          "hi give me number {bno} and also {mdrink}",
+          "hi give me number {bno} with {mdrink} please",
+          "hi give me number {bno} with {mdrink}",
+          "hi can i get number {bno} {mdrink} please",
+          "hi can i get number {bno} {mdrink}",
+          "hi can i get number {bno} one {mdrink} please",
+          "hi can i get number {bno} one {mdrink}",
+          "hi can i get number {bno} and {mdrink} please",
+          "hi can i get number {bno} and {mdrink}",
+          "hi can i get number {bno} and one {mdrink} please",
+          "hi can i get number {bno} and one {mdrink}",
+          "hi can i get number {bno} along with {mdrink} please",
+          "hi can i get number {bno} along with {mdrink}",
+          "hi can i get number {bno} and also {mdrink} please",
+          "hi can i get number {bno} and also {mdrink}",
+          "hi can i get number {bno} with {mdrink} please",
+          "hi can i get number {bno} with {mdrink}",
+          "hi I would like to have number {bno} {mdrink} please",
+          "hi I would like to have number {bno} {mdrink}",
+          "hi I would like to have number {bno} one {mdrink} please",
+          "hi I would like to have number {bno} one {mdrink}",
+          "hi I would like to have number {bno} and {mdrink} please",
+          "hi I would like to have number {bno} and {mdrink}",
+          "hi I would like to have number {bno} and one {mdrink} please",
+          "hi I would like to have number {bno} and one {mdrink}",
+          "hi I would like to have number {bno} along with {mdrink} please",
+          "hi I would like to have number {bno} along with {mdrink}",
+          "hi I would like to have number {bno} and also {mdrink} please",
+          "hi I would like to have number {bno} and also {mdrink}",
+          "hi I would like to have number {bno} with {mdrink} please",
+          "hi I would like to have number {bno} with {mdrink}",
+          "hi I would like number {bno} {mdrink} please",
+          "hi I would like number {bno} {mdrink}",
+          "hi I would like number {bno} one {mdrink} please",
+          "hi I would like number {bno} one {mdrink}",
+          "hi I would like number {bno} and {mdrink} please",
+          "hi I would like number {bno} and {mdrink}",
+          "hi I would like number {bno} and one {mdrink} please",
+          "hi I would like number {bno} and one {mdrink}",
+          "hi I would like number {bno} along with {mdrink} please",
+          "hi I would like number {bno} along with {mdrink}",
+          "hi I would like number {bno} and also {mdrink} please",
+          "hi I would like number {bno} and also {mdrink}",
+          "hi I would like number {bno} with {mdrink} please",
+          "hi I would like number {bno} with {mdrink}",
+          "hi I want to have number {bno} {mdrink} please",
+          "hi I want to have number {bno} {mdrink}",
+          "hi I want to have number {bno} one {mdrink} please",
+          "hi I want to have number {bno} one {mdrink}",
+          "hi I want to have number {bno} and {mdrink} please",
+          "hi I want to have number {bno} and {mdrink}",
+          "hi I want to have number {bno} and one {mdrink} please",
+          "hi I want to have number {bno} and one {mdrink}",
+          "hi I want to have number {bno} along with {mdrink} please",
+          "hi I want to have number {bno} along with {mdrink}",
+          "hi I want to have number {bno} and also {mdrink} please",
+          "hi I want to have number {bno} and also {mdrink}",
+          "hi I want to have number {bno} with {mdrink} please",
+          "hi I want to have number {bno} with {mdrink}",
+          "hi I want number {bno} {mdrink} please",
+          "hi I want number {bno} {mdrink}",
+          "hi I want number {bno} one {mdrink} please",
+          "hi I want number {bno} one {mdrink}",
+          "hi I want number {bno} and {mdrink} please",
+          "hi I want number {bno} and {mdrink}",
+          "hi I want number {bno} and one {mdrink} please",
+          "hi I want number {bno} and one {mdrink}",
+          "hi I want number {bno} along with {mdrink} please",
+          "hi I want number {bno} along with {mdrink}",
+          "hi I want number {bno} and also {mdrink} please",
+          "hi I want number {bno} and also {mdrink}",
+          "hi I want number {bno} with {mdrink} please",
+          "hi I want number {bno} with {mdrink}",
+          "hi get me number {bno} {mdrink} please",
+          "hi get me number {bno} {mdrink}",
+          "hi get me number {bno} one {mdrink} please",
+          "hi get me number {bno} one {mdrink}",
+          "hi get me number {bno} and {mdrink} please",
+          "hi get me number {bno} and {mdrink}",
+          "hi get me number {bno} and one {mdrink} please",
+          "hi get me number {bno} and one {mdrink}",
+          "hi get me number {bno} along with {mdrink} please",
+          "hi get me number {bno} along with {mdrink}",
+          "hi get me number {bno} and also {mdrink} please",
+          "hi get me number {bno} and also {mdrink}",
+          "hi get me number {bno} with {mdrink} please",
+          "hi get me number {bno} with {mdrink}",
+          "hi can i have number {bno} {mdrink} please",
+          "hi can i have number {bno} {mdrink}",
+          "hi can i have number {bno} one {mdrink} please",
+          "hi can i have number {bno} one {mdrink}",
+          "hi can i have number {bno} and {mdrink} please",
+          "hi can i have number {bno} and {mdrink}",
+          "hi can i have number {bno} and one {mdrink} please",
+          "hi can i have number {bno} and one {mdrink}",
+          "hi can i have number {bno} along with {mdrink} please",
+          "hi can i have number {bno} along with {mdrink}",
+          "hi can i have number {bno} and also {mdrink} please",
+          "hi can i have number {bno} and also {mdrink}",
+          "hi can i have number {bno} with {mdrink} please",
+          "hi can i have number {bno} with {mdrink}",
+          "number {bno} {mdrinksize} {mdrink} please",
+          "number {bno} {mdrinksize} {mdrink}",
+          "number {bno} one {mdrinksize} {mdrink} please",
+          "number {bno} one {mdrinksize} {mdrink}",
+          "number {bno} and {mdrinksize} {mdrink} please",
+          "number {bno} and {mdrinksize} {mdrink}",
+          "number {bno} and one {mdrinksize} {mdrink} please",
+          "number {bno} and one {mdrinksize} {mdrink}",
+          "number {bno} along with {mdrinksize} {mdrink} please",
+          "number {bno} along with {mdrinksize} {mdrink}",
+          "number {bno} and also {mdrinksize} {mdrink} please",
+          "number {bno} and also {mdrinksize} {mdrink}",
+          "number {bno} with {mdrinksize} {mdrink} please",
+          "number {bno} with {mdrinksize} {mdrink}",
+          "can you give me number {bno} {mdrinksize} {mdrink} please",
+          "can you give me number {bno} {mdrinksize} {mdrink}",
+          "can you give me number {bno} one {mdrinksize} {mdrink} please",
+          "can you give me number {bno} one {mdrinksize} {mdrink}",
+          "can you give me number {bno} and {mdrinksize} {mdrink} please",
+          "can you give me number {bno} and {mdrinksize} {mdrink}",
+          "can you give me number {bno} and one {mdrinksize} {mdrink} please",
+          "can you give me number {bno} and one {mdrinksize} {mdrink}",
+          "can you give me number {bno} along with {mdrinksize} {mdrink} please",
+          "can you give me number {bno} along with {mdrinksize} {mdrink}",
+          "can you give me number {bno} and also {mdrinksize} {mdrink} please",
+          "can you give me number {bno} and also {mdrinksize} {mdrink}",
+          "can you give me number {bno} with {mdrinksize} {mdrink} please",
+          "can you give me number {bno} with {mdrinksize} {mdrink}",
+          "give me number {bno} {mdrinksize} {mdrink} please",
+          "give me number {bno} {mdrinksize} {mdrink}",
+          "give me number {bno} one {mdrinksize} {mdrink} please",
+          "give me number {bno} one {mdrinksize} {mdrink}",
+          "give me number {bno} and {mdrinksize} {mdrink} please",
+          "give me number {bno} and {mdrinksize} {mdrink}",
+          "give me number {bno} and one {mdrinksize} {mdrink} please",
+          "give me number {bno} and one {mdrinksize} {mdrink}",
+          "give me number {bno} along with {mdrinksize} {mdrink} please",
+          "give me number {bno} along with {mdrinksize} {mdrink}",
+          "give me number {bno} and also {mdrinksize} {mdrink} please",
+          "give me number {bno} and also {mdrinksize} {mdrink}",
+          "give me number {bno} with {mdrinksize} {mdrink} please",
+          "give me number {bno} with {mdrinksize} {mdrink}",
+          "can i get number {bno} {mdrinksize} {mdrink} please",
+          "can i get number {bno} {mdrinksize} {mdrink}",
+          "can i get number {bno} one {mdrinksize} {mdrink} please",
+          "can i get number {bno} one {mdrinksize} {mdrink}",
+          "can i get number {bno} and {mdrinksize} {mdrink} please",
+          "can i get number {bno} and {mdrinksize} {mdrink}",
+          "can i get number {bno} and one {mdrinksize} {mdrink} please",
+          "can i get number {bno} and one {mdrinksize} {mdrink}",
+          "can i get number {bno} along with {mdrinksize} {mdrink} please",
+          "can i get number {bno} along with {mdrinksize} {mdrink}",
+          "can i get number {bno} and also {mdrinksize} {mdrink} please",
+          "can i get number {bno} and also {mdrinksize} {mdrink}",
+          "can i get number {bno} with {mdrinksize} {mdrink} please",
+          "can i get number {bno} with {mdrinksize} {mdrink}",
+          "I would like to have number {bno} {mdrinksize} {mdrink} please",
+          "I would like to have number {bno} {mdrinksize} {mdrink}",
+          "I would like to have number {bno} one {mdrinksize} {mdrink} please",
+          "I would like to have number {bno} one {mdrinksize} {mdrink}",
+          "I would like to have number {bno} and {mdrinksize} {mdrink} please",
+          "I would like to have number {bno} and {mdrinksize} {mdrink}",
+          "I would like to have number {bno} and one {mdrinksize} {mdrink} please",
+          "I would like to have number {bno} and one {mdrinksize} {mdrink}",
+          "I would like to have number {bno} along with {mdrinksize} {mdrink} please",
+          "I would like to have number {bno} along with {mdrinksize} {mdrink}",
+          "I would like to have number {bno} and also {mdrinksize} {mdrink} please",
+          "I would like to have number {bno} and also {mdrinksize} {mdrink}",
+          "I would like to have number {bno} with {mdrinksize} {mdrink} please",
+          "I would like to have number {bno} with {mdrinksize} {mdrink}",
+          "I would like number {bno} {mdrinksize} {mdrink} please",
+          "I would like number {bno} {mdrinksize} {mdrink}",
+          "I would like number {bno} one {mdrinksize} {mdrink} please",
+          "I would like number {bno} one {mdrinksize} {mdrink}",
+          "I would like number {bno} and {mdrinksize} {mdrink} please",
+          "I would like number {bno} and {mdrinksize} {mdrink}",
+          "I would like number {bno} and one {mdrinksize} {mdrink} please",
+          "I would like number {bno} and one {mdrinksize} {mdrink}",
+          "I would like number {bno} along with {mdrinksize} {mdrink} please",
+          "I would like number {bno} along with {mdrinksize} {mdrink}",
+          "I would like number {bno} and also {mdrinksize} {mdrink} please",
+          "I would like number {bno} and also {mdrinksize} {mdrink}",
+          "I would like number {bno} with {mdrinksize} {mdrink} please",
+          "I would like number {bno} with {mdrinksize} {mdrink}",
+          "I want to have number {bno} {mdrinksize} {mdrink} please",
+          "I want to have number {bno} {mdrinksize} {mdrink}",
+          "I want to have number {bno} one {mdrinksize} {mdrink} please",
+          "I want to have number {bno} one {mdrinksize} {mdrink}",
+          "I want to have number {bno} and {mdrinksize} {mdrink} please",
+          "I want to have number {bno} and {mdrinksize} {mdrink}",
+          "I want to have number {bno} and one {mdrinksize} {mdrink} please",
+          "I want to have number {bno} and one {mdrinksize} {mdrink}",
+          "I want to have number {bno} along with {mdrinksize} {mdrink} please",
+          "I want to have number {bno} along with {mdrinksize} {mdrink}",
+          "I want to have number {bno} and also {mdrinksize} {mdrink} please",
+          "I want to have number {bno} and also {mdrinksize} {mdrink}",
+          "I want to have number {bno} with {mdrinksize} {mdrink} please",
+          "I want to have number {bno} with {mdrinksize} {mdrink}",
+          "I want number {bno} {mdrinksize} {mdrink} please",
+          "I want number {bno} {mdrinksize} {mdrink}",
+          "I want number {bno} one {mdrinksize} {mdrink} please",
+          "I want number {bno} one {mdrinksize} {mdrink}",
+          "I want number {bno} and {mdrinksize} {mdrink} please",
+          "I want number {bno} and {mdrinksize} {mdrink}",
+          "I want number {bno} and one {mdrinksize} {mdrink} please",
+          "I want number {bno} and one {mdrinksize} {mdrink}",
+          "I want number {bno} along with {mdrinksize} {mdrink} please",
+          "I want number {bno} along with {mdrinksize} {mdrink}",
+          "I want number {bno} and also {mdrinksize} {mdrink} please",
+          "I want number {bno} and also {mdrinksize} {mdrink}",
+          "I want number {bno} with {mdrinksize} {mdrink} please",
+          "I want number {bno} with {mdrinksize} {mdrink}",
+          "get me number {bno} {mdrinksize} {mdrink} please",
+          "get me number {bno} {mdrinksize} {mdrink}",
+          "get me number {bno} one {mdrinksize} {mdrink} please",
+          "get me number {bno} one {mdrinksize} {mdrink}",
+          "get me number {bno} and {mdrinksize} {mdrink} please",
+          "get me number {bno} and {mdrinksize} {mdrink}",
+          "get me number {bno} and one {mdrinksize} {mdrink} please",
+          "get me number {bno} and one {mdrinksize} {mdrink}",
+          "get me number {bno} along with {mdrinksize} {mdrink} please",
+          "get me number {bno} along with {mdrinksize} {mdrink}",
+          "get me number {bno} and also {mdrinksize} {mdrink} please",
+          "get me number {bno} and also {mdrinksize} {mdrink}",
+          "get me number {bno} with {mdrinksize} {mdrink} please",
+          "get me number {bno} with {mdrinksize} {mdrink}",
+          "can i have number {bno} {mdrinksize} {mdrink} please",
+          "can i have number {bno} {mdrinksize} {mdrink}",
+          "can i have number {bno} one {mdrinksize} {mdrink} please",
+          "can i have number {bno} one {mdrinksize} {mdrink}",
+          "can i have number {bno} and {mdrinksize} {mdrink} please",
+          "can i have number {bno} and {mdrinksize} {mdrink}",
+          "can i have number {bno} and one {mdrinksize} {mdrink} please",
+          "can i have number {bno} and one {mdrinksize} {mdrink}",
+          "can i have number {bno} along with {mdrinksize} {mdrink} please",
+          "can i have number {bno} along with {mdrinksize} {mdrink}",
+          "can i have number {bno} and also {mdrinksize} {mdrink} please",
+          "can i have number {bno} and also {mdrinksize} {mdrink}",
+          "can i have number {bno} with {mdrinksize} {mdrink} please",
+          "can i have number {bno} with {mdrinksize} {mdrink}",
+          "hi number {bno} {mdrinksize} {mdrink} please",
+          "hi number {bno} {mdrinksize} {mdrink}",
+          "hi number {bno} one {mdrinksize} {mdrink} please",
+          "hi number {bno} one {mdrinksize} {mdrink}",
+          "hi number {bno} and {mdrinksize} {mdrink} please",
+          "hi number {bno} and {mdrinksize} {mdrink}",
+          "hi number {bno} and one {mdrinksize} {mdrink} please",
+          "hi number {bno} and one {mdrinksize} {mdrink}",
+          "hi number {bno} along with {mdrinksize} {mdrink} please",
+          "hi number {bno} along with {mdrinksize} {mdrink}",
+          "hi number {bno} and also {mdrinksize} {mdrink} please",
+          "hi number {bno} and also {mdrinksize} {mdrink}",
+          "hi number {bno} with {mdrinksize} {mdrink} please",
+          "hi number {bno} with {mdrinksize} {mdrink}",
+          "hi can you give me number {bno} {mdrinksize} {mdrink} please",
+          "hi can you give me number {bno} {mdrinksize} {mdrink}",
+          "hi can you give me number {bno} one {mdrinksize} {mdrink} please",
+          "hi can you give me number {bno} one {mdrinksize} {mdrink}",
+          "hi can you give me number {bno} and {mdrinksize} {mdrink} please",
+          "hi can you give me number {bno} and {mdrinksize} {mdrink}",
+          "hi can you give me number {bno} and one {mdrinksize} {mdrink} please",
+          "hi can you give me number {bno} and one {mdrinksize} {mdrink}",
+          "hi can you give me number {bno} along with {mdrinksize} {mdrink} please",
+          "hi can you give me number {bno} along with {mdrinksize} {mdrink}",
+          "hi can you give me number {bno} and also {mdrinksize} {mdrink} please",
+          "hi can you give me number {bno} and also {mdrinksize} {mdrink}",
+          "hi can you give me number {bno} with {mdrinksize} {mdrink} please",
+          "hi can you give me number {bno} with {mdrinksize} {mdrink}",
+          "hi give me number {bno} {mdrinksize} {mdrink} please",
+          "hi give me number {bno} {mdrinksize} {mdrink}",
+          "hi give me number {bno} one {mdrinksize} {mdrink} please",
+          "hi give me number {bno} one {mdrinksize} {mdrink}",
+          "hi give me number {bno} and {mdrinksize} {mdrink} please",
+          "hi give me number {bno} and {mdrinksize} {mdrink}",
+          "hi give me number {bno} and one {mdrinksize} {mdrink} please",
+          "hi give me number {bno} and one {mdrinksize} {mdrink}",
+          "hi give me number {bno} along with {mdrinksize} {mdrink} please",
+          "hi give me number {bno} along with {mdrinksize} {mdrink}",
+          "hi give me number {bno} and also {mdrinksize} {mdrink} please",
+          "hi give me number {bno} and also {mdrinksize} {mdrink}",
+          "hi give me number {bno} with {mdrinksize} {mdrink} please",
+          "hi give me number {bno} with {mdrinksize} {mdrink}",
+          "hi can i get number {bno} {mdrinksize} {mdrink} please",
+          "hi can i get number {bno} {mdrinksize} {mdrink}",
+          "hi can i get number {bno} one {mdrinksize} {mdrink} please",
+          "hi can i get number {bno} one {mdrinksize} {mdrink}",
+          "hi can i get number {bno} and {mdrinksize} {mdrink} please",
+          "hi can i get number {bno} and {mdrinksize} {mdrink}",
+          "hi can i get number {bno} and one {mdrinksize} {mdrink} please",
+          "hi can i get number {bno} and one {mdrinksize} {mdrink}",
+          "hi can i get number {bno} along with {mdrinksize} {mdrink} please",
+          "hi can i get number {bno} along with {mdrinksize} {mdrink}",
+          "hi can i get number {bno} and also {mdrinksize} {mdrink} please",
+          "hi can i get number {bno} and also {mdrinksize} {mdrink}",
+          "hi can i get number {bno} with {mdrinksize} {mdrink} please",
+          "hi can i get number {bno} with {mdrinksize} {mdrink}",
+          "hi I would like to have number {bno} {mdrinksize} {mdrink} please",
+          "hi I would like to have number {bno} {mdrinksize} {mdrink}",
+          "hi I would like to have number {bno} one {mdrinksize} {mdrink} please",
+          "hi I would like to have number {bno} one {mdrinksize} {mdrink}",
+          "hi I would like to have number {bno} and {mdrinksize} {mdrink} please",
+          "hi I would like to have number {bno} and {mdrinksize} {mdrink}",
+          "hi I would like to have number {bno} and one {mdrinksize} {mdrink} please",
+          "hi I would like to have number {bno} and one {mdrinksize} {mdrink}",
+          "hi I would like to have number {bno} along with {mdrinksize} {mdrink} please",
+          "hi I would like to have number {bno} along with {mdrinksize} {mdrink}",
+          "hi I would like to have number {bno} and also {mdrinksize} {mdrink} please",
+          "hi I would like to have number {bno} and also {mdrinksize} {mdrink}",
+          "hi I would like to have number {bno} with {mdrinksize} {mdrink} please",
+          "hi I would like to have number {bno} with {mdrinksize} {mdrink}",
+          "hi I would like number {bno} {mdrinksize} {mdrink} please",
+          "hi I would like number {bno} {mdrinksize} {mdrink}",
+          "hi I would like number {bno} one {mdrinksize} {mdrink} please",
+          "hi I would like number {bno} one {mdrinksize} {mdrink}",
+          "hi I would like number {bno} and {mdrinksize} {mdrink} please",
+          "hi I would like number {bno} and {mdrinksize} {mdrink}",
+          "hi I would like number {bno} and one {mdrinksize} {mdrink} please",
+          "hi I would like number {bno} and one {mdrinksize} {mdrink}",
+          "hi I would like number {bno} along with {mdrinksize} {mdrink} please",
+          "hi I would like number {bno} along with {mdrinksize} {mdrink}",
+          "hi I would like number {bno} and also {mdrinksize} {mdrink} please",
+          "hi I would like number {bno} and also {mdrinksize} {mdrink}",
+          "hi I would like number {bno} with {mdrinksize} {mdrink} please",
+          "hi I would like number {bno} with {mdrinksize} {mdrink}",
+          "hi I want to have number {bno} {mdrinksize} {mdrink} please",
+          "hi I want to have number {bno} {mdrinksize} {mdrink}",
+          "hi I want to have number {bno} one {mdrinksize} {mdrink} please",
+          "hi I want to have number {bno} one {mdrinksize} {mdrink}",
+          "hi I want to have number {bno} and {mdrinksize} {mdrink} please",
+          "hi I want to have number {bno} and {mdrinksize} {mdrink}",
+          "hi I want to have number {bno} and one {mdrinksize} {mdrink} please",
+          "hi I want to have number {bno} and one {mdrinksize} {mdrink}",
+          "hi I want to have number {bno} along with {mdrinksize} {mdrink} please",
+          "hi I want to have number {bno} along with {mdrinksize} {mdrink}",
+          "hi I want to have number {bno} and also {mdrinksize} {mdrink} please",
+          "hi I want to have number {bno} and also {mdrinksize} {mdrink}",
+          "hi I want to have number {bno} with {mdrinksize} {mdrink} please",
+          "hi I want to have number {bno} with {mdrinksize} {mdrink}",
+          "hi I want number {bno} {mdrinksize} {mdrink} please",
+          "hi I want number {bno} {mdrinksize} {mdrink}",
+          "hi I want number {bno} one {mdrinksize} {mdrink} please",
+          "hi I want number {bno} one {mdrinksize} {mdrink}",
+          "hi I want number {bno} and {mdrinksize} {mdrink} please",
+          "hi I want number {bno} and {mdrinksize} {mdrink}",
+          "hi I want number {bno} and one {mdrinksize} {mdrink} please",
+          "hi I want number {bno} and one {mdrinksize} {mdrink}",
+          "hi I want number {bno} along with {mdrinksize} {mdrink} please",
+          "hi I want number {bno} along with {mdrinksize} {mdrink}",
+          "hi I want number {bno} and also {mdrinksize} {mdrink} please",
+          "hi I want number {bno} and also {mdrinksize} {mdrink}",
+          "hi I want number {bno} with {mdrinksize} {mdrink} please",
+          "hi I want number {bno} with {mdrinksize} {mdrink}",
+          "hi get me number {bno} {mdrinksize} {mdrink} please",
+          "hi get me number {bno} {mdrinksize} {mdrink}",
+          "hi get me number {bno} one {mdrinksize} {mdrink} please",
+          "hi get me number {bno} one {mdrinksize} {mdrink}",
+          "hi get me number {bno} and {mdrinksize} {mdrink} please",
+          "hi get me number {bno} and {mdrinksize} {mdrink}",
+          "hi get me number {bno} and one {mdrinksize} {mdrink} please",
+          "hi get me number {bno} and one {mdrinksize} {mdrink}",
+          "hi get me number {bno} along with {mdrinksize} {mdrink} please",
+          "hi get me number {bno} along with {mdrinksize} {mdrink}",
+          "hi get me number {bno} and also {mdrinksize} {mdrink} please",
+          "hi get me number {bno} and also {mdrinksize} {mdrink}",
+          "hi get me number {bno} with {mdrinksize} {mdrink} please",
+          "hi get me number {bno} with {mdrinksize} {mdrink}",
+          "hi can i have number {bno} {mdrinksize} {mdrink} please",
+          "hi can i have number {bno} {mdrinksize} {mdrink}",
+          "hi can i have number {bno} one {mdrinksize} {mdrink} please",
+          "hi can i have number {bno} one {mdrinksize} {mdrink}",
+          "hi can i have number {bno} and {mdrinksize} {mdrink} please",
+          "hi can i have number {bno} and {mdrinksize} {mdrink}",
+          "hi can i have number {bno} and one {mdrinksize} {mdrink} please",
+          "hi can i have number {bno} and one {mdrinksize} {mdrink}",
+          "hi can i have number {bno} along with {mdrinksize} {mdrink} please",
+          "hi can i have number {bno} along with {mdrinksize} {mdrink}",
+          "hi can i have number {bno} and also {mdrinksize} {mdrink} please",
+          "hi can i have number {bno} and also {mdrinksize} {mdrink}",
+          "hi can i have number {bno} with {mdrinksize} {mdrink} please",
+          "hi can i have number {bno} with {mdrinksize} {mdrink}"
+        ],
+        "slots": [
+          {
+            "name": "mitem",
+            "type": "itemslot",
+            "samples": [
+              "can i have {mitem}",
+              "would like to have {mitem}",
+              "can i get {mitem}",
+              "{mitem} Please",
+              "I would like to have {mitem}",
+              "aah can i get {mitem}"
+            ]
+          },
+          {
+            "name": "bno",
+            "type": "mnunumberslot"
+          },
+          {
+            "name": "mdressing",
+            "type": "dressingslot"
+          },
+          {
+            "name": "mdrink",
+            "type": "drinkslot",
+            "samples": [
+              "{mdrink} please ",
+              "one {mdrink} please ",
+              "one {mdrink} ",
+              "give me {mdrink} please ",
+              "give me {mdrink} ",
+              "give me one {mdrink} please ",
+              "give me one {mdrink} ",
+              "can i get {mdrink} please ",
+              "can i get {mdrink} ",
+              "can i get one {mdrink} please ",
+              "can i get one {mdrink} ",
+              "I would like to have {mdrink} please ",
+              "I would like to have {mdrink} ",
+              "I would like to have one {mdrink} please ",
+              "I would like to have one {mdrink} ",
+              "I would like {mdrink} please ",
+              "I would like {mdrink} ",
+              "I would like one {mdrink} please ",
+              "I would like one {mdrink} ",
+              "I want to have {mdrink} please ",
+              "I want to have {mdrink} ",
+              "I want to have one {mdrink} please ",
+              "I want to have one {mdrink} ",
+              "I want {mdrink} please ",
+              "I want {mdrink} ",
+              "I want one {mdrink} please ",
+              "I want one {mdrink} ",
+              "get me {mdrink} please ",
+              "get me {mdrink} ",
+              "get me one {mdrink} please ",
+              "get me one {mdrink} ",
+              "can i have {mdrink} please ",
+              "can i have {mdrink} ",
+              "can i have one {mdrink} please ",
+              "can i have one {mdrink} ",
+              "{mdrinksize} {mdrink} please ",
+              "one {mdrinksize} {mdrink} please ",
+              "one {mdrinksize} {mdrink} ",
+              "give me {mdrinksize} {mdrink} please ",
+              "give me {mdrinksize} {mdrink} ",
+              "give me one {mdrinksize} {mdrink} please ",
+              "give me one {mdrinksize} {mdrink} ",
+              "can i get {mdrinksize} {mdrink} please ",
+              "can i get {mdrinksize} {mdrink} ",
+              "can i get one {mdrinksize} {mdrink} please ",
+              "can i get one {mdrinksize} {mdrink} ",
+              "I would like to have {mdrinksize} {mdrink} please ",
+              "I would like to have {mdrinksize} {mdrink} ",
+              "I would like to have one {mdrinksize} {mdrink} please ",
+              "I would like to have one {mdrinksize} {mdrink} ",
+              "I would like {mdrinksize} {mdrink} please ",
+              "I would like {mdrinksize} {mdrink} ",
+              "I would like one {mdrinksize} {mdrink} please ",
+              "I would like one {mdrinksize} {mdrink} ",
+              "I want to have {mdrinksize} {mdrink} please ",
+              "I want to have {mdrinksize} {mdrink} ",
+              "I want to have one {mdrinksize} {mdrink} please ",
+              "I want to have one {mdrinksize} {mdrink} ",
+              "I want {mdrinksize} {mdrink} please ",
+              "I want {mdrinksize} {mdrink} ",
+              "I want one {mdrinksize} {mdrink} please ",
+              "I want one {mdrinksize} {mdrink} ",
+              "get me {mdrinksize} {mdrink} please ",
+              "get me {mdrinksize} {mdrink} ",
+              "get me one {mdrinksize} {mdrink} please ",
+              "get me one {mdrinksize} {mdrink} ",
+              "can i have {mdrinksize} {mdrink} please ",
+              "can i have {mdrinksize} {mdrink} ",
+              "can i have one {mdrinksize} {mdrink} please ",
+              "can i have one {mdrinksize} {mdrink} "
+            ]
+          },
+          {
+            "name": "mdrinksize",
+            "type": "drinksizeslot",
+            "samples": [
+              "{mdrinksize} please ",
+              "a {mdrinksize} please ",
+              "a {mdrinksize} ",
+              "can you give me {mdrinksize} please ",
+              "can you give me {mdrinksize} ",
+              "can you give me a {mdrinksize} please ",
+              "can you give me a {mdrinksize} ",
+              "give me {mdrinksize} please ",
+              "give me {mdrinksize} ",
+              "give me a {mdrinksize} please ",
+              "give me a {mdrinksize} ",
+              "can i get {mdrinksize} please ",
+              "can i get {mdrinksize} ",
+              "can i get a {mdrinksize} please ",
+              "can i get a {mdrinksize} ",
+              "get me {mdrinksize} please ",
+              "get me {mdrinksize} ",
+              "get me a {mdrinksize} please ",
+              "get me a {mdrinksize} ",
+              "can i have {mdrinksize} please ",
+              "can i have {mdrinksize} ",
+              "can i have a {mdrinksize} please ",
+              "can i have a {mdrinksize} "
+            ]
+          },
+          {
+            "name": "combo",
+            "type": "yesno",
+            "samples": [
+              "{combo} please",
+              "uh {combo}"
+            ]
+          },
+          {
+            "name": "nthingelse",
+            "type": "sideitemslot",
+            "samples": [
+              "one {nthingelse} please ",
+              "one {nthingelse} ",
+              "give me {nthingelse} please ",
+              "give me {nthingelse} ",
+              "give me one {nthingelse} please ",
+              "give me one {nthingelse} ",
+              "can i get {nthingelse} please ",
+              "can i get {nthingelse} ",
+              "can i get one {nthingelse} please ",
+              "can i get one {nthingelse} ",
+              "I would like to have {nthingelse} please ",
+              "I would like to have {nthingelse} ",
+              "I would like to have one {nthingelse} please ",
+              "I would like to have one {nthingelse} ",
+              "I would like {nthingelse} please ",
+              "I would like {nthingelse} ",
+              "I would like one {nthingelse} please ",
+              "I would like one {nthingelse} ",
+              "I want to have {nthingelse} please ",
+              "I want to have {nthingelse} ",
+              "I want to have one {nthingelse} please ",
+              "I want to have one {nthingelse} ",
+              "I want {nthingelse} please ",
+              "I want {nthingelse} ",
+              "I want one {nthingelse} please ",
+              "I want one {nthingelse} ",
+              "get me {nthingelse} please ",
+              "get me {nthingelse} ",
+              "get me one {nthingelse} please ",
+              "get me one {nthingelse} ",
+              "can i have {nthingelse} please ",
+              "can i have {nthingelse} ",
+              "can i have one {nthingelse} please ",
+              "can i have one {nthingelse} ",
+              "{nthingelsesize} {nthingelse} please ",
+              "one {nthingelsesize} {nthingelse} please ",
+              "one {nthingelsesize} {nthingelse} ",
+              "give me {nthingelsesize} {nthingelse} please ",
+              "give me {nthingelsesize} {nthingelse} ",
+              "give me one {nthingelsesize} {nthingelse} please ",
+              "give me one {nthingelsesize} {nthingelse} ",
+              "can i get {nthingelsesize} {nthingelse} please ",
+              "can i get {nthingelsesize} {nthingelse} ",
+              "can i get one {nthingelsesize} {nthingelse} please ",
+              "can i get one {nthingelsesize} {nthingelse} ",
+              "I would like to have {nthingelsesize} {nthingelse} please ",
+              "I would like to have {nthingelsesize} {nthingelse} ",
+              "I would like to have one {nthingelsesize} {nthingelse} please ",
+              "I would like to have one {nthingelsesize} {nthingelse} ",
+              "I would like {nthingelsesize} {nthingelse} please ",
+              "I would like {nthingelsesize} {nthingelse} ",
+              "I would like one {nthingelsesize} {nthingelse} please ",
+              "I would like one {nthingelsesize} {nthingelse} ",
+              "I want to have {nthingelsesize} {nthingelse} please ",
+              "I want to have {nthingelsesize} {nthingelse} ",
+              "I want to have one {nthingelsesize} {nthingelse} please ",
+              "I want to have one {nthingelsesize} {nthingelse} ",
+              "I want {nthingelsesize} {nthingelse} please ",
+              "I want {nthingelsesize} {nthingelse} ",
+              "I want one {nthingelsesize} {nthingelse} please ",
+              "I want one {nthingelsesize} {nthingelse} ",
+              "get me {nthingelsesize} {nthingelse} please ",
+              "get me {nthingelsesize} {nthingelse} ",
+              "get me one {nthingelsesize} {nthingelse} please ",
+              "get me one {nthingelsesize} {nthingelse} ",
+              "can i have {nthingelsesize} {nthingelse} please ",
+              "can i have {nthingelsesize} {nthingelse} ",
+              "can i have one {nthingelsesize} {nthingelse} please ",
+              "can i have one {nthingelsesize} {nthingelse} ",
+              "{nthingelse} please ",
+              "ahh {nthingelse} please ",
+              "ahh {nthingelse} ",
+              "ahh one {nthingelse} please ",
+              "ahh one {nthingelse} ",
+              "ahh give me {nthingelse} please ",
+              "ahh give me {nthingelse} ",
+              "ahh give me one {nthingelse} please ",
+              "ahh give me one {nthingelse} ",
+              "ahh can i get {nthingelse} please ",
+              "ahh can i get {nthingelse} ",
+              "ahh can i get one {nthingelse} please ",
+              "ahh can i get one {nthingelse} ",
+              "ahh I would like to have {nthingelse} please ",
+              "ahh I would like to have {nthingelse} ",
+              "ahh I would like to have one {nthingelse} please ",
+              "ahh I would like to have one {nthingelse} ",
+              "ahh I would like {nthingelse} please ",
+              "ahh I would like {nthingelse} ",
+              "ahh I would like one {nthingelse} please ",
+              "ahh I would like one {nthingelse} ",
+              "ahh I want to have {nthingelse} please ",
+              "ahh I want to have {nthingelse} ",
+              "ahh I want to have one {nthingelse} please ",
+              "ahh I want to have one {nthingelse} ",
+              "ahh I want {nthingelse} please ",
+              "ahh I want {nthingelse} ",
+              "ahh I want one {nthingelse} please ",
+              "ahh I want one {nthingelse} ",
+              "ahh get me {nthingelse} please ",
+              "ahh get me {nthingelse} ",
+              "ahh get me one {nthingelse} please ",
+              "ahh get me one {nthingelse} ",
+              "ahh can i have {nthingelse} please ",
+              "ahh can i have {nthingelse} ",
+              "ahh can i have one {nthingelse} please ",
+              "ahh can i have one {nthingelse} ",
+              "ahh {nthingelsesize} {nthingelse} please ",
+              "ahh {nthingelsesize} {nthingelse} ",
+              "ahh one {nthingelsesize} {nthingelse} please ",
+              "ahh one {nthingelsesize} {nthingelse} ",
+              "ahh give me {nthingelsesize} {nthingelse} please ",
+              "ahh give me {nthingelsesize} {nthingelse} ",
+              "ahh give me one {nthingelsesize} {nthingelse} please ",
+              "ahh give me one {nthingelsesize} {nthingelse} ",
+              "ahh can i get {nthingelsesize} {nthingelse} please ",
+              "ahh can i get {nthingelsesize} {nthingelse} ",
+              "ahh can i get one {nthingelsesize} {nthingelse} please ",
+              "ahh can i get one {nthingelsesize} {nthingelse} ",
+              "ahh I would like to have {nthingelsesize} {nthingelse} please ",
+              "ahh I would like to have {nthingelsesize} {nthingelse} ",
+              "ahh I would like to have one {nthingelsesize} {nthingelse} please ",
+              "ahh I would like to have one {nthingelsesize} {nthingelse} ",
+              "ahh I would like {nthingelsesize} {nthingelse} please ",
+              "ahh I would like {nthingelsesize} {nthingelse} ",
+              "ahh I would like one {nthingelsesize} {nthingelse} please ",
+              "ahh I would like one {nthingelsesize} {nthingelse} ",
+              "ahh I want to have {nthingelsesize} {nthingelse} please ",
+              "ahh I want to have {nthingelsesize} {nthingelse} ",
+              "ahh I want to have one {nthingelsesize} {nthingelse} please ",
+              "ahh I want to have one {nthingelsesize} {nthingelse} ",
+              "ahh I want {nthingelsesize} {nthingelse} please ",
+              "ahh I want {nthingelsesize} {nthingelse} ",
+              "ahh I want one {nthingelsesize} {nthingelse} please ",
+              "ahh I want one {nthingelsesize} {nthingelse} ",
+              "ahh get me {nthingelsesize} {nthingelse} please ",
+              "ahh get me {nthingelsesize} {nthingelse} ",
+              "ahh get me one {nthingelsesize} {nthingelse} please ",
+              "ahh get me one {nthingelsesize} {nthingelse} ",
+              "ahh can i have {nthingelsesize} {nthingelse} please ",
+              "ahh can i have {nthingelsesize} {nthingelse} ",
+              "ahh can i have one {nthingelsesize} {nthingelse} please ",
+              "ahh can i have one {nthingelsesize} {nthingelse} ",
+              "ahh yes {nthingelse} please ",
+              "ahh yes {nthingelse} ",
+              "ahh yes one {nthingelse} please ",
+              "ahh yes one {nthingelse} ",
+              "ahh yes give me {nthingelse} please ",
+              "ahh yes give me {nthingelse} ",
+              "ahh yes give me one {nthingelse} please ",
+              "ahh yes give me one {nthingelse} ",
+              "ahh yes can i get {nthingelse} please ",
+              "ahh yes can i get {nthingelse} ",
+              "ahh yes can i get one {nthingelse} please ",
+              "ahh yes can i get one {nthingelse} ",
+              "ahh yes I would like to have {nthingelse} please ",
+              "ahh yes I would like to have {nthingelse} ",
+              "ahh yes I would like to have one {nthingelse} please ",
+              "ahh yes I would like to have one {nthingelse} ",
+              "ahh yes I would like {nthingelse} please ",
+              "ahh yes I would like {nthingelse} ",
+              "ahh yes I would like one {nthingelse} please ",
+              "ahh yes I would like one {nthingelse} ",
+              "ahh yes I want to have {nthingelse} please ",
+              "ahh yes I want to have {nthingelse} ",
+              "ahh yes I want to have one {nthingelse} please ",
+              "ahh yes I want to have one {nthingelse} ",
+              "ahh yes I want {nthingelse} please ",
+              "ahh yes I want {nthingelse} ",
+              "ahh yes I want one {nthingelse} please ",
+              "ahh yes I want one {nthingelse} ",
+              "ahh yes get me {nthingelse} please ",
+              "ahh yes get me {nthingelse} ",
+              "ahh yes get me one {nthingelse} please ",
+              "ahh yes get me one {nthingelse} ",
+              "ahh yes can i have {nthingelse} please ",
+              "ahh yes can i have {nthingelse} ",
+              "ahh yes can i have one {nthingelse} please ",
+              "ahh yes can i have one {nthingelse} ",
+              "ahh yes {nthingelsesize} {nthingelse} please ",
+              "ahh yes {nthingelsesize} {nthingelse} ",
+              "ahh yes one {nthingelsesize} {nthingelse} please ",
+              "ahh yes one {nthingelsesize} {nthingelse} ",
+              "ahh yes give me {nthingelsesize} {nthingelse} please ",
+              "ahh yes give me {nthingelsesize} {nthingelse} ",
+              "ahh yes give me one {nthingelsesize} {nthingelse} please ",
+              "ahh yes give me one {nthingelsesize} {nthingelse} ",
+              "ahh yes can i get {nthingelsesize} {nthingelse} please ",
+              "ahh yes can i get {nthingelsesize} {nthingelse} ",
+              "ahh yes can i get one {nthingelsesize} {nthingelse} please ",
+              "ahh yes can i get one {nthingelsesize} {nthingelse} ",
+              "ahh yes I would like to have {nthingelsesize} {nthingelse} please ",
+              "ahh yes I would like to have {nthingelsesize} {nthingelse} ",
+              "ahh yes I would like to have one {nthingelsesize} {nthingelse} please ",
+              "ahh yes I would like to have one {nthingelsesize} {nthingelse} ",
+              "ahh yes I would like {nthingelsesize} {nthingelse} please ",
+              "ahh yes I would like {nthingelsesize} {nthingelse} ",
+              "ahh yes I would like one {nthingelsesize} {nthingelse} please ",
+              "ahh yes I would like one {nthingelsesize} {nthingelse} ",
+              "ahh yes I want to have {nthingelsesize} {nthingelse} please ",
+              "ahh yes I want to have {nthingelsesize} {nthingelse} ",
+              "ahh yes I want to have one {nthingelsesize} {nthingelse} please ",
+              "ahh yes I want to have one {nthingelsesize} {nthingelse} ",
+              "ahh yes I want {nthingelsesize} {nthingelse} please ",
+              "ahh yes I want {nthingelsesize} {nthingelse} ",
+              "ahh yes I want one {nthingelsesize} {nthingelse} please ",
+              "ahh yes I want one {nthingelsesize} {nthingelse} ",
+              "ahh yes get me {nthingelsesize} {nthingelse} please ",
+              "ahh yes get me {nthingelsesize} {nthingelse} ",
+              "ahh yes get me one {nthingelsesize} {nthingelse} please ",
+              "ahh yes get me one {nthingelsesize} {nthingelse} ",
+              "ahh yes can i have {nthingelsesize} {nthingelse} please ",
+              "ahh yes can i have {nthingelsesize} {nthingelse} ",
+              "ahh yes can i have one {nthingelsesize} {nthingelse} please ",
+              "ahh yes can i have one {nthingelsesize} {nthingelse} ",
+              "hmm {nthingelse} please ",
+              "hmm {nthingelse} ",
+              "hmm one {nthingelse} please ",
+              "hmm one {nthingelse} ",
+              "hmm give me {nthingelse} please ",
+              "hmm give me {nthingelse} ",
+              "hmm give me one {nthingelse} please ",
+              "hmm give me one {nthingelse} ",
+              "hmm can i get {nthingelse} please ",
+              "hmm can i get {nthingelse} ",
+              "hmm can i get one {nthingelse} please ",
+              "hmm can i get one {nthingelse} ",
+              "hmm I would like to have {nthingelse} please ",
+              "hmm I would like to have {nthingelse} ",
+              "hmm I would like to have one {nthingelse} please ",
+              "hmm I would like to have one {nthingelse} ",
+              "hmm I would like {nthingelse} please ",
+              "hmm I would like {nthingelse} ",
+              "hmm I would like one {nthingelse} please ",
+              "hmm I would like one {nthingelse} ",
+              "hmm I want to have {nthingelse} please ",
+              "hmm I want to have {nthingelse} ",
+              "hmm I want to have one {nthingelse} please ",
+              "hmm I want to have one {nthingelse} ",
+              "hmm I want {nthingelse} please ",
+              "hmm I want {nthingelse} ",
+              "hmm I want one {nthingelse} please ",
+              "hmm I want one {nthingelse} ",
+              "hmm get me {nthingelse} please ",
+              "hmm get me {nthingelse} ",
+              "hmm get me one {nthingelse} please ",
+              "hmm get me one {nthingelse} ",
+              "hmm can i have {nthingelse} please ",
+              "hmm can i have {nthingelse} ",
+              "hmm can i have one {nthingelse} please ",
+              "hmm can i have one {nthingelse} ",
+              "hmm {nthingelsesize} {nthingelse} please ",
+              "hmm {nthingelsesize} {nthingelse} ",
+              "hmm one {nthingelsesize} {nthingelse} please ",
+              "hmm one {nthingelsesize} {nthingelse} ",
+              "hmm give me {nthingelsesize} {nthingelse} please ",
+              "hmm give me {nthingelsesize} {nthingelse} ",
+              "hmm give me one {nthingelsesize} {nthingelse} please ",
+              "hmm give me one {nthingelsesize} {nthingelse} ",
+              "hmm can i get {nthingelsesize} {nthingelse} please ",
+              "hmm can i get {nthingelsesize} {nthingelse} ",
+              "hmm can i get one {nthingelsesize} {nthingelse} please ",
+              "hmm can i get one {nthingelsesize} {nthingelse} ",
+              "hmm I would like to have {nthingelsesize} {nthingelse} please ",
+              "hmm I would like to have {nthingelsesize} {nthingelse} ",
+              "hmm I would like to have one {nthingelsesize} {nthingelse} please ",
+              "hmm I would like to have one {nthingelsesize} {nthingelse} ",
+              "hmm I would like {nthingelsesize} {nthingelse} please ",
+              "hmm I would like {nthingelsesize} {nthingelse} ",
+              "hmm I would like one {nthingelsesize} {nthingelse} please ",
+              "hmm I would like one {nthingelsesize} {nthingelse} ",
+              "hmm I want to have {nthingelsesize} {nthingelse} please ",
+              "hmm I want to have {nthingelsesize} {nthingelse} ",
+              "hmm I want to have one {nthingelsesize} {nthingelse} please ",
+              "hmm I want to have one {nthingelsesize} {nthingelse} ",
+              "hmm I want {nthingelsesize} {nthingelse} please ",
+              "hmm I want {nthingelsesize} {nthingelse} ",
+              "hmm I want one {nthingelsesize} {nthingelse} please ",
+              "hmm I want one {nthingelsesize} {nthingelse} ",
+              "hmm get me {nthingelsesize} {nthingelse} please ",
+              "hmm get me {nthingelsesize} {nthingelse} ",
+              "hmm get me one {nthingelsesize} {nthingelse} please ",
+              "hmm get me one {nthingelsesize} {nthingelse} ",
+              "hmm can i have {nthingelsesize} {nthingelse} please ",
+              "hmm can i have {nthingelsesize} {nthingelse} ",
+              "hmm can i have one {nthingelsesize} {nthingelse} please ",
+              "hmm can i have one {nthingelsesize} {nthingelse} "
+            ]
+          },
+          {
+            "name": "mfries",
+            "type": "friesslot"
+          },
+          {
+            "name": "mfrsize",
+            "type": "size"
+          },
+          {
+            "name": "nthingelsesize",
+            "type": "sidesize"
+          },
+          {
+            "name": "msauce",
+            "type": "sauceslot"
+          },
+          {
+            "name": "msidsauce",
+            "type": "sauceslot"
+          },
+          {
+            "name": "msldsize",
+            "type": "saladsizeslot"
+          }
+        ]
+      },
+      {
+        "name": "mcd",
+        "samples": [
+          "is there a {mcditem} close by",
+          "can i have {mcditem}",
+          "do we have {mcditem} anywhere here",
+          "do we have {mcditem} close by",
+          "{mcditem} please",
+          "i like {mcditem}"
+        ],
+        "slots": [
+          {
+            "name": "mcditem",
+            "type": "mcdslot"
+          }
+        ]
+      }
+    ],
+    "invocationName": "order"
+  },
+  "prompts": [
+    {
+      "id": "Elicit.Intent-directorder.IntentSlot-mitem",
+      "variations": [
+        {
+          "type": "PlainText",
+          "value": "What would you like to have"
+        }
+      ]
+    },
+    {
+      "id": "Elicit.Intent-directorder.IntentSlot-mdrink",
+      "variations": [
+        {
+          "type": "PlainText",
+          "value": "what drink would you like to have a drink along with {mitem}"
+        },
+        {
+          "type": "PlainText",
+          "value": "for sure, what drink would you like to have with {mitem}"
+        },
+        {
+          "type": "PlainText",
+          "value": "would you like to have a drink along with {mitem}"
+        },
+        {
+          "type": "PlainText",
+          "value": "Do you want a drink along with {mitem}"
+        },
+        {
+          "type": "PlainText",
+          "value": "any drink with {mitem}"
+        }
+      ]
+    },
+    {
+      "id": "Elicit.Intent-directorder.IntentSlot-mdrinksize",
+      "variations": [
+        {
+          "type": "PlainText",
+          "value": "What size would you like for your {mdrink}"
+        }
+      ]
+    },
+    {
+      "id": "Elicit.Intent-directorder.IntentSlot-combo",
+      "variations": [
+        {
+          "type": "PlainText",
+          "value": "Would you like to make it a combo"
+        }
+      ]
+    },
+    {
+      "id": "Elicit.Intent-directorder.IntentSlot-nthingelse",
+      "variations": [
+        {
+          "type": "PlainText",
+          "value": "what else would you like to have today"
+        }
+      ]
+    }
+  ],
+  "dialog": {
+    "intents": [
+      {
+        "name": "directorder",
+        "confirmationRequired": false,
+        "prompts": {},
+        "slots": [
+          {
+            "name": "mitem",
+            "type": "itemslot",
+            "elicitationRequired": true,
+            "confirmationRequired": false,
+            "prompts": {
+              "elicitation": "Elicit.Intent-directorder.IntentSlot-mitem"
+            }
+          },
+          {
+            "name": "bno",
+            "type": "mnunumberslot",
+            "elicitationRequired": false,
+            "confirmationRequired": false,
+            "prompts": {}
+          },
+          {
+            "name": "mdressing",
+            "type": "dressingslot",
+            "elicitationRequired": false,
+            "confirmationRequired": false,
+            "prompts": {}
+          },
+          {
+            "name": "mdrink",
+            "type": "drinkslot",
+            "elicitationRequired": true,
+            "confirmationRequired": false,
+            "prompts": {
+              "elicitation": "Elicit.Intent-directorder.IntentSlot-mdrink"
+            }
+          },
+          {
+            "name": "mdrinksize",
+            "type": "drinksizeslot",
+            "elicitationRequired": true,
+            "confirmationRequired": false,
+            "prompts": {
+              "elicitation": "Elicit.Intent-directorder.IntentSlot-mdrinksize"
+            }
+          },
+          {
+            "name": "combo",
+            "type": "yesno",
+            "elicitationRequired": true,
+            "confirmationRequired": false,
+            "prompts": {
+              "elicitation": "Elicit.Intent-directorder.IntentSlot-combo"
+            }
+          },
+          {
+            "name": "nthingelse",
+            "type": "sideitemslot",
+            "elicitationRequired": true,
+            "confirmationRequired": false,
+            "prompts": {
+              "elicitation": "Elicit.Intent-directorder.IntentSlot-nthingelse"
+            }
+          },
+          {
+            "name": "mfries",
+            "type": "friesslot",
+            "elicitationRequired": false,
+            "confirmationRequired": false,
+            "prompts": {}
+          },
+          {
+            "name": "mfrsize",
+            "type": "size",
+            "elicitationRequired": false,
+            "confirmationRequired": false,
+            "prompts": {}
+          },
+          {
+            "name": "nthingelsesize",
+            "type": "sidesize",
+            "elicitationRequired": false,
+            "confirmationRequired": false,
+            "prompts": {}
+          },
+          {
+            "name": "msauce",
+            "type": "sauceslot",
+            "elicitationRequired": false,
+            "confirmationRequired": false,
+            "prompts": {}
+          },
+          {
+            "name": "msidsauce",
+            "type": "sauceslot",
+            "elicitationRequired": false,
+            "confirmationRequired": false,
+            "prompts": {}
+          },
+          {
+            "name": "msldsize",
+            "type": "saladsizeslot",
+            "elicitationRequired": false,
+            "confirmationRequired": false,
+            "prompts": {}
+          }
+        ]
+      }
+    ]
+  }
+}
